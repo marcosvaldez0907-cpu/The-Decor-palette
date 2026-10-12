@@ -1,0 +1,687 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "311508610ff418dc899c11088d5e4492"
+    },
+    {
+        "path": "about-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-us/index.html",
+        "type": "file",
+        "md5": "262fe8a3d49ce325dbca0f1ec0315f96"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0c990d4827458acea6404357d22e5619"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "c08f8540d506d9aeff445ee3dbabb9d5"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/isotope.pkgd.min.js",
+        "type": "file",
+        "md5": "2afcff647ed260006faa71c8e779e8d4"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "d1197e1400c54c27939ee87fa7ee9741"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "1762f7ab131e33a4eb8fb224822de245"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "151e31ba62789782fcd457b5b884ba8a"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "2813b916db5705fbd8cc3024ce107375"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/james-k-perry",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/james-k-perry/index.html",
+        "type": "file",
+        "md5": "5082ff717fc72c4efc1b69c807863e53"
+    },
+    {
+        "path": "authors/james-k-perry/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/james-k-perry/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/james-k-perry/page/2/index.html",
+        "type": "file",
+        "md5": "feeabb4845f5a2bad212e10d76daaf08"
+    },
+    {
+        "path": "contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact-us/index.html",
+        "type": "file",
+        "md5": "0adb76ae73b8be62d9721654cd85191a"
+    },
+    {
+        "path": "creating-comfortable-living-room-designs-and-sofas-in-compact-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-comfortable-living-room-designs-and-sofas-in-compact-spaces/index.html",
+        "type": "file",
+        "md5": "391ee86bb3acdfad50f97abc56d69aa0"
+    },
+    {
+        "path": "creative-lighting-solutions-for-modern-home-lighting-and-lamps",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creative-lighting-solutions-for-modern-home-lighting-and-lamps/index.html",
+        "type": "file",
+        "md5": "1994f6924758c9def2c658166e98565b"
+    },
+    {
+        "path": "creative-styling-ideas-for-modern-home-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creative-styling-ideas-for-modern-home-interiors/index.html",
+        "type": "file",
+        "md5": "7f9513e697bae5eeb1de43b248abb1a6"
+    },
+    {
+        "path": "creative-ways-to-style-modern-home-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creative-ways-to-style-modern-home-interiors/index.html",
+        "type": "file",
+        "md5": "913f6c35937da1086a29a534c2fa86fe"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "f033d5c06563f4ea7b75f05c2c36ec94"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "bfbc5828cc9633df7650198f1261eeba"
+    },
+    {
+        "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/floor-lamps-elegant-lighting-ideas-for-every-room/index.html",
+        "type": "file",
+        "md5": "d46f9294b4915216b131f20114b6f245"
+    },
+    {
+        "path": "how-to-create-a-sophisticated-living-room-with-luxurious-seating",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-create-a-sophisticated-living-room-with-luxurious-seating/index.html",
+        "type": "file",
+        "md5": "fb738282bbd43a9d6e0298008347cc1f"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "a011ad471d146d4d883cd5e638f6a526"
+    },
+    {
+        "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/inspiring-wall-colors-and-accent-paints-for-modern-interiors/index.html",
+        "type": "file",
+        "md5": "dcbf533ec3dac6f15cc9b357bd2f5653"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/pendant-light.jfif",
+        "type": "file",
+        "md5": "f39264b26bb99644e669784bacf4dbe1"
+    },
+    {
+        "path": "/media/posts/10/pendant.jfif",
+        "type": "file",
+        "md5": "491dea454d85e16cc142d4e8f94f8980"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/floor-lamp.jfif",
+        "type": "file",
+        "md5": "89cc1203a5f00e3b55507318b97ce039"
+    },
+    {
+        "path": "/media/posts/11/lamp.jfif",
+        "type": "file",
+        "md5": "e66a1f68c36922380608f244fa9a5293"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/led-stips.jfif",
+        "type": "file",
+        "md5": "1e69cb4a5adddd3632628ed4ca42d664"
+    },
+    {
+        "path": "/media/posts/12/led-strip.jfif",
+        "type": "file",
+        "md5": "3065974b144488fbdfe012986adb0bab"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/l-shaped.jfif",
+        "type": "file",
+        "md5": "c8d823172afe1d47fa63167e9e275307"
+    },
+    {
+        "path": "/media/posts/13/l-shaped1.jfif",
+        "type": "file",
+        "md5": "d0da820432fcf4b37d54a2406a92333b"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/velvet-1.jfif",
+        "type": "file",
+        "md5": "699ca7e14929c1cee01bc1b107207af8"
+    },
+    {
+        "path": "/media/posts/14/velvet.jfif",
+        "type": "file",
+        "md5": "6b7b4f3ca45b12543c648fdb286ae3d5"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/lshaped.jfif",
+        "type": "file",
+        "md5": "1d2654db44746fe15a4b3b74153ee4a7"
+    },
+    {
+        "path": "/media/posts/15/lshaped1.jfif",
+        "type": "file",
+        "md5": "221aaef8eaadb3a172d57a39fc5394c2"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/stylish-walls-2.jfif",
+        "type": "file",
+        "md5": "a7aaa846411a3bdbb2c0257061198159"
+    },
+    {
+        "path": "/media/posts/4/WALLS.jfif",
+        "type": "file",
+        "md5": "b441b1e74368a63fa403fbd121b78177"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/designing-home-interiors.jfif",
+        "type": "file",
+        "md5": "8d594b34324770f522883b417f2cc23b"
+    },
+    {
+        "path": "/media/posts/5/home-interios.jfif",
+        "type": "file",
+        "md5": "e0f68fc059d8ff311abf5b2b471ab7f5"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/Creative-Styling-Ideas.jfif",
+        "type": "file",
+        "md5": "caae0b61cb9406d45202063403376e16"
+    },
+    {
+        "path": "/media/posts/6/Modern-Home-Interiors.jfif",
+        "type": "file",
+        "md5": "82e7697f937307dbdef9105b47422ee3"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/Inspiring-Wall-Colors-and-Accent-Paints-for-Modern-Interiors.jfif",
+        "type": "file",
+        "md5": "941195487c15035cff1348b66951a5e4"
+    },
+    {
+        "path": "/media/posts/7/Wall-Colors.jfif",
+        "type": "file",
+        "md5": "f568c1c9e2797a92cf616a2cf958076d"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/texture.jfif",
+        "type": "file",
+        "md5": "4298fe1e4acd7544acdf7bd8b61b8830"
+    },
+    {
+        "path": "/media/posts/8/txturee.jfif",
+        "type": "file",
+        "md5": "5c5f575c728d82bd4dbe5a29cb751af3"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/paint-t.jfif",
+        "type": "file",
+        "md5": "85115b269ae9915c8ccc81255dbdaa6e"
+    },
+    {
+        "path": "/media/posts/9/paint-trend.jfif",
+        "type": "file",
+        "md5": "ec0b7cc798c420d3e47ec9d45b70c0fc"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/the_decor_palette_logo-2xl.png",
+        "type": "file",
+        "md5": "69925f2d6d0cd57a36b7a2af4c5fe836"
+    },
+    {
+        "path": "/media/website/responsive/the_decor_palette_logo-lg.png",
+        "type": "file",
+        "md5": "4efb9d9b584e93f02e47b4517b089577"
+    },
+    {
+        "path": "/media/website/responsive/the_decor_palette_logo-md.png",
+        "type": "file",
+        "md5": "17b4cd190fcd7ad40117d82e8db8a274"
+    },
+    {
+        "path": "/media/website/responsive/the_decor_palette_logo-sm.png",
+        "type": "file",
+        "md5": "59ef18f6a550dce43dc90b5e1a89a152"
+    },
+    {
+        "path": "/media/website/responsive/the_decor_palette_logo-xl.png",
+        "type": "file",
+        "md5": "113dcb07ee5d6c2360902fec04cde606"
+    },
+    {
+        "path": "/media/website/responsive/the_decor_palette_logo-xs.png",
+        "type": "file",
+        "md5": "0a48da1190eab5e52f4f71724328d821"
+    },
+    {
+        "path": "/media/website/the_decor_palette_logo.png",
+        "type": "file",
+        "md5": "5d45093c1db6d1aa038c1809bed6b92a"
+    },
+    {
+        "path": "modern-ideas-for-stylish-wall-colors-and-accent-paints",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/modern-ideas-for-stylish-wall-colors-and-accent-paints/index.html",
+        "type": "file",
+        "md5": "2ab2ad4489dee86a17e59b7f5aba6fac"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "2499122244c6eaf7ec6238ecac8cc8f0"
+    },
+    {
+        "path": "pivacy-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pivacy-policy/index.html",
+        "type": "file",
+        "md5": "80b87c5895411ca9e42d789635cf8726"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "ed7a6c3ad74859bd4e0f61c9bd7bc67a"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "b1b29d9d27f2c50fd3e3a35e111defd7"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "stylish-ideas-for-home-lighting-and-lamps",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stylish-ideas-for-home-lighting-and-lamps/index.html",
+        "type": "file",
+        "md5": "14c1589253cc422c19cd640f7a986d83"
+    },
+    {
+        "path": "stylish-seating-ideas-for-modern-living-rooms",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stylish-seating-ideas-for-modern-living-rooms/index.html",
+        "type": "file",
+        "md5": "713ff88276f530be04c85eb61ea9de82"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/floor-lamps",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/floor-lamps/index.html",
+        "type": "file",
+        "md5": "c657f52069dcba44f1e48d23bf1c66f4"
+    },
+    {
+        "path": "tags/home-lighting-and-lamps",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/home-lighting-and-lamps/index.html",
+        "type": "file",
+        "md5": "04c47ff7b885d5471f8e577a44e3647e"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "43ccd23ca65da1a6ab8a01502119077b"
+    },
+    {
+        "path": "tags/l-shaped-sectional-sofas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/l-shaped-sectional-sofas/index.html",
+        "type": "file",
+        "md5": "d7a5a177270b0c07bdc3cf204e555f6b"
+    },
+    {
+        "path": "tags/led-strips",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/led-strips/index.html",
+        "type": "file",
+        "md5": "e1a1b66210d3ec28d87c23875fdd4c17"
+    },
+    {
+        "path": "tags/living-room-designs-and-sofas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/living-room-designs-and-sofas/index.html",
+        "type": "file",
+        "md5": "4789884c35682a96924971b5dec1643b"
+    },
+    {
+        "path": "tags/modern-decor-accessories",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/modern-decor-accessories/index.html",
+        "type": "file",
+        "md5": "2d50d7dc29c5aa1d9137ef1193673bde"
+    },
+    {
+        "path": "tags/neutral-wall-colors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/neutral-wall-colors/index.html",
+        "type": "file",
+        "md5": "df1bc35007ac1b58822c6cae60c43043"
+    },
+    {
+        "path": "tags/paint-trends",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/paint-trends/index.html",
+        "type": "file",
+        "md5": "09b6a6b5820f35b422f60b862291ebed"
+    },
+    {
+        "path": "tags/pendant-and-hanging-lights",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/pendant-and-hanging-lights/index.html",
+        "type": "file",
+        "md5": "73cc0793553b45dc262bbf7475976ff3"
+    },
+    {
+        "path": "tags/small-layouts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/small-layouts/index.html",
+        "type": "file",
+        "md5": "f61fadd4d1e3ee06baec7c6d4476dec1"
+    },
+    {
+        "path": "tags/textured-walls",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/textured-walls/index.html",
+        "type": "file",
+        "md5": "fad7fdf6b7dee7ce7a1fdac41337f325"
+    },
+    {
+        "path": "tags/throw-pillows",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/throw-pillows/index.html",
+        "type": "file",
+        "md5": "5878f64f5554cf0d317ee3d46eb85b9f"
+    },
+    {
+        "path": "tags/velvet-couches",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/velvet-couches/index.html",
+        "type": "file",
+        "md5": "b69abc8d84fb4bcc7a487f733aecfeec"
+    },
+    {
+        "path": "tags/wall-colors-and-accent-paints",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wall-colors-and-accent-paints/index.html",
+        "type": "file",
+        "md5": "50dee27eeee5f8ade634f1cb10e4699e"
+    },
+    {
+        "path": "transform-empty-walls-into-stylish-modern-features",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-empty-walls-into-stylish-modern-features/index.html",
+        "type": "file",
+        "md5": "b5e2bb7ea7d00ad026b10f7e75b1178a"
+    },
+    {
+        "path": "transform-your-interior-with-depth-style-and-personality",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-interior-with-depth-style-and-personality/index.html",
+        "type": "file",
+        "md5": "34342d6e78cb0ad28bc652939e42e153"
+    }
+]
