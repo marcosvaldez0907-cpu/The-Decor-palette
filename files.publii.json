@@ -107,7 +107,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "bf044b89e6cebfac8b02696d83988d88"
+        "md5": "3660ecba86d7919525e2ec281371a342"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "c6f03a3b42a6b1bec6638638de3873e8"
+        "md5": "83015b00f7d5d5bd0e3774f9812040cd"
     },
     {
         "path": "contact-us",
@@ -142,7 +142,7 @@
     {
         "path": "/creating-comfortable-living-room-designs-and-sofas-in-compact-spaces/index.html",
         "type": "file",
-        "md5": "5602ccf33ac5c50ebb0e25e4ddc943e0"
+        "md5": "362e652416bc304f3097d293a2ae670f"
     },
     {
         "path": "creative-lighting-solutions-for-modern-home-lighting-and-lamps",
@@ -182,17 +182,17 @@
     {
         "path": "/elegant-comfort-for-modern-living-room-designs/index.html",
         "type": "file",
-        "md5": "df2aec9f115af60800aa851194b25f6c"
+        "md5": "84f63e7c15f43fc9ce42e81bf79b5f17"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3420481c2872d7d6664768cf016ea60e"
+        "md5": "f9000f9440cdeaf8240adf0370c65c32"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e0e727e9a4abb0528ec38f66090de5d3"
+        "md5": "a13b003a2011e0f0b058c1c92d3497d7"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -212,12 +212,12 @@
     {
         "path": "/how-to-create-a-sophisticated-living-room-with-luxurious-seating/index.html",
         "type": "file",
-        "md5": "dd678f84c8e27c877c05781a14be2e17"
+        "md5": "673aae45c29f170246d820f2d5c75ae6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "88a059e2f97991e8c66a9154ab48a4b3"
+        "md5": "c1c1e97f79b4952dc78620ba00331f7c"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -630,6 +630,81 @@
         "md5": "415df47a85d72e81b5edffea9ac35a24"
     },
     {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/images-92.jpg",
+        "type": "file",
+        "md5": "0e9cbcb08b9e60351fc055cd62c58694"
+    },
+    {
+        "path": "/media/posts/20/images-93.jpg",
+        "type": "file",
+        "md5": "ddf6845f883dab03884b73bf5c49ed9d"
+    },
+    {
+        "path": "media/posts/20/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/responsive/images-92-lg.jpg",
+        "type": "file",
+        "md5": "0c4ec8f70aa1af83c8bd16607102863f"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-92-md.jpg",
+        "type": "file",
+        "md5": "0c4ec8f70aa1af83c8bd16607102863f"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-92-sm.jpg",
+        "type": "file",
+        "md5": "0c4ec8f70aa1af83c8bd16607102863f"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-92-xs.jpg",
+        "type": "file",
+        "md5": "6104b417dd92f66ba783d51df6e7f4c2"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-2xl.jpg",
+        "type": "file",
+        "md5": "a71063d605425e9b91f6654c23fe7b73"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-lg.jpg",
+        "type": "file",
+        "md5": "a71063d605425e9b91f6654c23fe7b73"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-md.jpg",
+        "type": "file",
+        "md5": "a71063d605425e9b91f6654c23fe7b73"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-sm.jpg",
+        "type": "file",
+        "md5": "56ded26b3eaa5dbf64c736e81eff31d5"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-sm2.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-xl.jpg",
+        "type": "file",
+        "md5": "a71063d605425e9b91f6654c23fe7b73"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-xs.jpg",
+        "type": "file",
+        "md5": "b846f0fd73a9f35eb0b9b2145dd4313a"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -797,7 +872,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "791af9582668344fbb3e8197a80cf028"
+        "md5": "5b3e5128447d88f66c1b16c8937f2452"
     },
     {
         "path": "pivacy-policy",
@@ -817,12 +892,22 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "10c9127e222e820df10563ab79190342"
+        "md5": "56693c56b3d9440e2a5d356528138cc3"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "small-layouts-how-to-design-beautiful-living-room-designs-and-sofas-in-limited-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/small-layouts-how-to-design-beautiful-living-room-designs-and-sofas-in-limited-spaces/index.html",
+        "type": "file",
+        "md5": "8c9e172f8918e142692da55b41c06680"
     },
     {
         "path": "stylish-design-ideas-for-modern-and-timeless-interiors",
@@ -832,7 +917,7 @@
     {
         "path": "/stylish-design-ideas-for-modern-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "1bb2f5fe0725fb776e97ed7afbe74205"
+        "md5": "007e0470fd4fe0126fd7b8a305a79134"
     },
     {
         "path": "stylish-ideas-for-home-lighting-and-lamps",
@@ -852,7 +937,7 @@
     {
         "path": "/stylish-seating-ideas-for-modern-living-rooms/index.html",
         "type": "file",
-        "md5": "2156c8c1bfd867e054a1c159941aabd3"
+        "md5": "bad357e28f9e2b600efa5a8e20e8f8b2"
     },
     {
         "path": "tags",
@@ -882,7 +967,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f9a072187f78220622b7f17b8de9fef8"
+        "md5": "d15181b91675074b9e6c101557b10efb"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
@@ -892,7 +977,7 @@
     {
         "path": "/tags/l-shaped-sectional-sofas/index.html",
         "type": "file",
-        "md5": "0190a0ef163de40e70498ef2bd31bcfe"
+        "md5": "3ef4a095e701e97996242fcbde638434"
     },
     {
         "path": "tags/led-strips",
@@ -912,7 +997,7 @@
     {
         "path": "/tags/living-room-designs-and-sofas/index.html",
         "type": "file",
-        "md5": "a93341ffcac470620af198558bf34bdf"
+        "md5": "f8e6e257edae2292ee2bb744aeb8bb13"
     },
     {
         "path": "tags/modern-decor-accessories",
