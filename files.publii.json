@@ -107,7 +107,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "3660ecba86d7919525e2ec281371a342"
+        "md5": "b8836493706e6e02d060400ace0ef3e2"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "83015b00f7d5d5bd0e3774f9812040cd"
+        "md5": "cd390b8ba7953eb3e5d90f39b1d088af"
     },
     {
         "path": "contact-us",
@@ -187,12 +187,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f9000f9440cdeaf8240adf0370c65c32"
+        "md5": "f210eb5d537c0cee5c888010d2fb68db"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a13b003a2011e0f0b058c1c92d3497d7"
+        "md5": "1cfa01b0d5fd7bfbcc925f7c71768b56"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -217,7 +217,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c1c1e97f79b4952dc78620ba00331f7c"
+        "md5": "2f93d646ff754738d186f43edb9c25d6"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -705,6 +705,56 @@
         "md5": "b846f0fd73a9f35eb0b9b2145dd4313a"
     },
     {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/images-2026-10-23T001634.250.jpg",
+        "type": "file",
+        "md5": "775bc11cdc8fbf22cae545e9584b1e53"
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-2xl.jpg",
+        "type": "file",
+        "md5": "555788535273d610d43b96e4da99f898"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-lg.jpg",
+        "type": "file",
+        "md5": "555788535273d610d43b96e4da99f898"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-md.jpg",
+        "type": "file",
+        "md5": "555788535273d610d43b96e4da99f898"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-sm.jpg",
+        "type": "file",
+        "md5": "14f5bec32dc7ff85a914b2b05d4b6c40"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-sm2.jpg",
+        "type": "file",
+        "md5": "21bce1ae6833977a699e3534859eb509"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-xl.jpg",
+        "type": "file",
+        "md5": "555788535273d610d43b96e4da99f898"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-xs.jpg",
+        "type": "file",
+        "md5": "3d3bf4c51c825fe386dfb38f3f0a1cde"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -857,7 +907,7 @@
     {
         "path": "/modern-ideas-for-stylish-wall-colors-and-accent-paints/index.html",
         "type": "file",
-        "md5": "463376af4a7ef6cb26e9faa3bfdade91"
+        "md5": "4549a3a601d657213e78443f2cacb4a7"
     },
     {
         "path": "page",
@@ -872,7 +922,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "5b3e5128447d88f66c1b16c8937f2452"
+        "md5": "4f08ba78bbb6661b00540c747d2cba5e"
     },
     {
         "path": "pivacy-policy",
@@ -892,7 +942,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "56693c56b3d9440e2a5d356528138cc3"
+        "md5": "4bdeb46d250d0b0f18e7dbcfd9850b2f"
     },
     {
         "path": "sitemap.xsl",
@@ -907,7 +957,7 @@
     {
         "path": "/small-layouts-how-to-design-beautiful-living-room-designs-and-sofas-in-limited-spaces/index.html",
         "type": "file",
-        "md5": "8c9e172f8918e142692da55b41c06680"
+        "md5": "394899c6e5f51e4b3024edce6d65dd05"
     },
     {
         "path": "stylish-design-ideas-for-modern-and-timeless-interiors",
@@ -917,7 +967,7 @@
     {
         "path": "/stylish-design-ideas-for-modern-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "007e0470fd4fe0126fd7b8a305a79134"
+        "md5": "c4ee0a65243775aadda4ac2edf26e66b"
     },
     {
         "path": "stylish-ideas-for-home-lighting-and-lamps",
@@ -967,7 +1017,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "d15181b91675074b9e6c101557b10efb"
+        "md5": "1fea1b745c27f990f9be6a03d57c2567"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
@@ -1017,7 +1067,7 @@
     {
         "path": "/tags/neutral-wall-colors/index.html",
         "type": "file",
-        "md5": "4274233a5be7b63c5846ade1b1971ca6"
+        "md5": "0938960014bcd0f949aa594267084b43"
     },
     {
         "path": "tags/paint-trends",
@@ -1097,7 +1147,17 @@
     {
         "path": "/tags/wall-colors-and-accent-paints/index.html",
         "type": "file",
-        "md5": "2f390968545c57606077bcc97f56db60"
+        "md5": "9a7e54cdb5cee011a27ceb20eefdeaef"
+    },
+    {
+        "path": "timeless-paint-ideas-for-every-interior-style",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-paint-ideas-for-every-interior-style/index.html",
+        "type": "file",
+        "md5": "02a64ab8275ac856f5d944c048a31167"
     },
     {
         "path": "transform-empty-walls-into-stylish-modern-features",
@@ -1117,6 +1177,6 @@
     {
         "path": "/transform-your-interior-with-depth-style-and-personality/index.html",
         "type": "file",
-        "md5": "a46eddb0ccabe100f0523fa8f3fe32d1"
+        "md5": "a45676e28730ac69f227414858b0b338"
     }
 ]
