@@ -2,17 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "8319a380a508f99a1f5029ed7d4439a2"
+        "md5": "6449ccd86eacc4e400833ebc5c366e3e"
     },
     {
-        "path": "a-natural-way-to-refresh-your-home-with-indoor-houseplants",
+        "path": "a-stylish-choice-for-modern-home-lighting-and-lamps",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/a-natural-way-to-refresh-your-home-with-indoor-houseplants/index.html",
+        "path": "/a-stylish-choice-for-modern-home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "be5fd8eddb13ffd66490d2330208e899"
+        "md5": "e47e6eefc3060ea5ec8afa5ef78ca942"
     },
     {
         "path": "about-us",
@@ -22,7 +22,7 @@
     {
         "path": "/about-us/index.html",
         "type": "file",
-        "md5": "ece127ac40a8c5393ad0e694fdc1c9d5"
+        "md5": "9d963388b360fee8b1c581cc6f0fcaba"
     },
     {
         "path": "assets",
@@ -42,12 +42,12 @@
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "d4e241aa96fd8231194a446287497c87"
+        "md5": "0c990d4827458acea6404357d22e5619"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "cb06b0bb487b5dac59c4da63c0a0b15e"
+        "md5": "c08f8540d506d9aeff445ee3dbabb9d5"
     },
     {
         "path": "assets/dynamic",
@@ -60,24 +60,19 @@
         "md5": false
     },
     {
-        "path": "/assets/js/imagesloaded.pkgd.min.js",
+        "path": "/assets/js/isotope.pkgd.min.js",
         "type": "file",
-        "md5": "919bcd36ba45f4ae408e47ad200e0cc9"
-    },
-    {
-        "path": "/assets/js/masonry.pkgd.min.js",
-        "type": "file",
-        "md5": "520e46df77727aaf3d5e799ef241be02"
+        "md5": "2afcff647ed260006faa71c8e779e8d4"
     },
     {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "6163ec009b55946ce2430d1fe34cff4d"
+        "md5": "d1197e1400c54c27939ee87fa7ee9741"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "1b09dc64eb6086ddc9720890661ff038"
+        "md5": "1762f7ab131e33a4eb8fb224822de245"
     },
     {
         "path": "/assets/js/svg-fix.js",
@@ -87,7 +82,7 @@
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "e5e4ced5be7f2e5a37bf8605130fe0aa"
+        "md5": "151e31ba62789782fcd457b5b884ba8a"
     },
     {
         "path": "assets/svg",
@@ -97,7 +92,7 @@
     {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "777b8dd8567e93fb9668f9c7cc194dfe"
+        "md5": "2813b916db5705fbd8cc3024ce107375"
     },
     {
         "path": "authors",
@@ -105,29 +100,29 @@
         "md5": false
     },
     {
-        "path": "authors/jessica-j-sumner",
+        "path": "authors/james-k-perry",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/authors/jessica-j-sumner/index.html",
+        "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "4b37b21bb3e3436d7b83a274d5671ea9"
+        "md5": "c76ad604de893883b567639df89c63e5"
     },
     {
-        "path": "authors/jessica-j-sumner/page",
+        "path": "authors/james-k-perry/page",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "authors/jessica-j-sumner/page/2",
+        "path": "authors/james-k-perry/page/2",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/authors/jessica-j-sumner/page/2/index.html",
+        "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "fdee5fef49da2c302d0f041311406766"
+        "md5": "cc5f7759f87bc88ec2e3ea0b1306cd11"
     },
     {
         "path": "contact-us",
@@ -137,82 +132,112 @@
     {
         "path": "/contact-us/index.html",
         "type": "file",
-        "md5": "f22e7aee27b2a056e84b95df630ad30e"
+        "md5": "0822b82031d3e79c600b7f0694ad5db9"
     },
     {
-        "path": "create-a-relaxing-retreat-with-stylish-outdoor-garden-seating",
+        "path": "creating-comfortable-living-room-designs-and-sofas-in-compact-spaces",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/create-a-relaxing-retreat-with-stylish-outdoor-garden-seating/index.html",
+        "path": "/creating-comfortable-living-room-designs-and-sofas-in-compact-spaces/index.html",
         "type": "file",
-        "md5": "c1557a3d7e8fc718c80803b0fa6e06ca"
+        "md5": "362e652416bc304f3097d293a2ae670f"
     },
     {
-        "path": "elegant-outdoor-furniture-for-balconies-and-terraces",
+        "path": "creative-lighting-solutions-for-modern-home-lighting-and-lamps",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/elegant-outdoor-furniture-for-balconies-and-terraces/index.html",
+        "path": "/creative-lighting-solutions-for-modern-home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "f24fecdb639ab03c7d3011bde44b1dab"
+        "md5": "506e8464313a43b33e5f993928283f5c"
     },
     {
-        "path": "elevate-your-outdoor-space-with-comfort-and-contemporary-style",
+        "path": "creative-styling-ideas-for-modern-home-interiors",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/elevate-your-outdoor-space-with-comfort-and-contemporary-style/index.html",
+        "path": "/creative-styling-ideas-for-modern-home-interiors/index.html",
         "type": "file",
-        "md5": "193f2eaae67d6c19c9cbf674a3015fbc"
+        "md5": "5cfbd898423d7c5731ad82a8abbc5c05"
     },
     {
-        "path": "enhance-your-garden-with-modern-landscape-and-exterior-lighting",
+        "path": "creative-ways-to-style-modern-home-interiors",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/enhance-your-garden-with-modern-landscape-and-exterior-lighting/index.html",
+        "path": "/creative-ways-to-style-modern-home-interiors/index.html",
         "type": "file",
-        "md5": "685e30caf13dc44c3495ddbb63c2fdfc"
+        "md5": "4fadfc17cba247134e5ad6b8208a41da"
+    },
+    {
+        "path": "elegant-comfort-for-modern-living-room-designs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-comfort-for-modern-living-room-designs/index.html",
+        "type": "file",
+        "md5": "84f63e7c15f43fc9ce42e81bf79b5f17"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f5c30b05d63dc98fbf6f2e17fed9b640"
+        "md5": "8ae0ef8ae235c3178c85c8e13c296c01"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "140a25b5924797b8523978c85e578e03"
+        "md5": "5ef08ffcc3a2dd681d31c8345523fcf5"
     },
     {
-        "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
+        "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/folding-tables-smart-space-saving-furniture-for-balconies-and-terraces/index.html",
+        "path": "/floor-lamps-elegant-lighting-ideas-for-every-room/index.html",
         "type": "file",
-        "md5": "1610d5d428380185c0f7476e61ec73b5"
+        "md5": "661797b299a31cc76bf8a93d7a7ffb2b"
     },
     {
-        "path": "garden-benches-create-a-welcoming-outdoor-space-with-timeless-style",
+        "path": "how-to-build-a-stylish-and-timeless-interior",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/garden-benches-create-a-welcoming-outdoor-space-with-timeless-style/index.html",
+        "path": "/how-to-build-a-stylish-and-timeless-interior/index.html",
         "type": "file",
-        "md5": "6bfa0954c5183dc2f3cc0b71da89efd4"
+        "md5": "90659180ddc219c1d8008c571407534f"
+    },
+    {
+        "path": "how-to-create-a-sophisticated-living-room-with-luxurious-seating",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-create-a-sophisticated-living-room-with-luxurious-seating/index.html",
+        "type": "file",
+        "md5": "673aae45c29f170246d820f2d5c75ae6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "333bf12a69297b1eea0230af9e73c741"
+        "md5": "d7a254b8eed172c34c080db4f5d942d9"
+    },
+    {
+        "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/inspiring-wall-colors-and-accent-paints-for-modern-interiors/index.html",
+        "type": "file",
+        "md5": "5f54a84967a77f2cdf6b30e082a06aaf"
     },
     {
         "path": "media",
@@ -230,54 +255,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/10/f.jpg",
+        "path": "/media/posts/10/pendant-light.jfif",
         "type": "file",
-        "md5": "66ece7d415d7d2e851ca6339f0c90f21"
+        "md5": "f39264b26bb99644e669784bacf4dbe1"
     },
     {
-        "path": "media/posts/10/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/10/responsive/f-lg.jpg",
+        "path": "/media/posts/10/pendant.jfif",
         "type": "file",
-        "md5": "50d3719f333550a7a2ef3a3dbca840fd"
-    },
-    {
-        "path": "/media/posts/10/responsive/f-md.jpg",
-        "type": "file",
-        "md5": "50d3719f333550a7a2ef3a3dbca840fd"
-    },
-    {
-        "path": "/media/posts/10/responsive/f-sm.jpg",
-        "type": "file",
-        "md5": "50d3719f333550a7a2ef3a3dbca840fd"
-    },
-    {
-        "path": "/media/posts/10/responsive/f-xs.jpg",
-        "type": "file",
-        "md5": "ffe0a2632ba0de39bdccad8fbf76b6f7"
-    },
-    {
-        "path": "/media/posts/10/responsive/v-md.jpg",
-        "type": "file",
-        "md5": "b4c90790ae4d666e43ecdd2e8440bd76"
-    },
-    {
-        "path": "/media/posts/10/responsive/v-sm.jpg",
-        "type": "file",
-        "md5": "1a8ab803859774afd2a8cae385bd7cd4"
-    },
-    {
-        "path": "/media/posts/10/responsive/v-xs.jpg",
-        "type": "file",
-        "md5": "c2de952fa06f679c8ba04760859f06d7"
-    },
-    {
-        "path": "/media/posts/10/v.jpg",
-        "type": "file",
-        "md5": "e0eee032eb1cfa19ac9696573014e18d"
+        "md5": "491dea454d85e16cc142d4e8f94f8980"
     },
     {
         "path": "media/posts/11",
@@ -285,54 +270,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/11/images-2.jpg",
+        "path": "/media/posts/11/floor-lamp.jfif",
         "type": "file",
-        "md5": "310b43f0ff1432331d5fe3cecc494126"
+        "md5": "89cc1203a5f00e3b55507318b97ce039"
     },
     {
-        "path": "media/posts/11/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/11/responsive/images-2-md.jpg",
+        "path": "/media/posts/11/lamp.jfif",
         "type": "file",
-        "md5": "0640a584367a55a0728400cfaf93558f"
-    },
-    {
-        "path": "/media/posts/11/responsive/images-2-sm.jpg",
-        "type": "file",
-        "md5": "149803cee5fa8c9778285956f47f847c"
-    },
-    {
-        "path": "/media/posts/11/responsive/images-2-xs.jpg",
-        "type": "file",
-        "md5": "0f2339dadb4b0f128acc6cbef206b215"
-    },
-    {
-        "path": "/media/posts/11/responsive/sd-lg.jpg",
-        "type": "file",
-        "md5": "24ad1da07ddb1d0e87936129f69487f2"
-    },
-    {
-        "path": "/media/posts/11/responsive/sd-md.jpg",
-        "type": "file",
-        "md5": "24ad1da07ddb1d0e87936129f69487f2"
-    },
-    {
-        "path": "/media/posts/11/responsive/sd-sm.jpg",
-        "type": "file",
-        "md5": "df17428f291160413ea00dbd99aeadbb"
-    },
-    {
-        "path": "/media/posts/11/responsive/sd-xs.jpg",
-        "type": "file",
-        "md5": "9debba879e4d6c076d7315998380593f"
-    },
-    {
-        "path": "/media/posts/11/sd.jpg",
-        "type": "file",
-        "md5": "065166597420d0914e804f921c5187d1"
+        "md5": "e66a1f68c36922380608f244fa9a5293"
     },
     {
         "path": "media/posts/12",
@@ -340,54 +285,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/12/bv.jpg",
+        "path": "/media/posts/12/led-stips.jfif",
         "type": "file",
-        "md5": "6272751fcf512e89acce018495e0726d"
+        "md5": "1e69cb4a5adddd3632628ed4ca42d664"
     },
     {
-        "path": "/media/posts/12/c.jpg",
+        "path": "/media/posts/12/led-strip.jfif",
         "type": "file",
-        "md5": "37e40540dc3c818f566cffbdb3e950b8"
-    },
-    {
-        "path": "media/posts/12/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/12/responsive/bv-md.jpg",
-        "type": "file",
-        "md5": "5fb1d77103785d924ba834c10c83b30b"
-    },
-    {
-        "path": "/media/posts/12/responsive/bv-sm.jpg",
-        "type": "file",
-        "md5": "5fb1d77103785d924ba834c10c83b30b"
-    },
-    {
-        "path": "/media/posts/12/responsive/bv-xs.jpg",
-        "type": "file",
-        "md5": "5fb1d77103785d924ba834c10c83b30b"
-    },
-    {
-        "path": "/media/posts/12/responsive/c-lg.jpg",
-        "type": "file",
-        "md5": "26d6a9205010a6f72e61199ce3a3b254"
-    },
-    {
-        "path": "/media/posts/12/responsive/c-md.jpg",
-        "type": "file",
-        "md5": "26d6a9205010a6f72e61199ce3a3b254"
-    },
-    {
-        "path": "/media/posts/12/responsive/c-sm.jpg",
-        "type": "file",
-        "md5": "26d6a9205010a6f72e61199ce3a3b254"
-    },
-    {
-        "path": "/media/posts/12/responsive/c-xs.jpg",
-        "type": "file",
-        "md5": "85280d365370a8ca7b2ddd2490c19a1e"
+        "md5": "3065974b144488fbdfe012986adb0bab"
     },
     {
         "path": "media/posts/13",
@@ -395,54 +300,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/13/images-3.jpg",
+        "path": "/media/posts/13/l-shaped.jfif",
         "type": "file",
-        "md5": "939ab9d73c16170b17a72215102b6e04"
+        "md5": "c8d823172afe1d47fa63167e9e275307"
     },
     {
-        "path": "/media/posts/13/images-4.jpg",
+        "path": "/media/posts/13/l-shaped1.jfif",
         "type": "file",
-        "md5": "8759c7d9e3772cdcc3e1de2610c2b42c"
-    },
-    {
-        "path": "media/posts/13/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/13/responsive/images-3-lg.jpg",
-        "type": "file",
-        "md5": "957bc2e360121bbd832f978dc84e4505"
-    },
-    {
-        "path": "/media/posts/13/responsive/images-3-md.jpg",
-        "type": "file",
-        "md5": "957bc2e360121bbd832f978dc84e4505"
-    },
-    {
-        "path": "/media/posts/13/responsive/images-3-sm.jpg",
-        "type": "file",
-        "md5": "0868daad6ea530f24ed266aead9aff78"
-    },
-    {
-        "path": "/media/posts/13/responsive/images-3-xs.jpg",
-        "type": "file",
-        "md5": "bae25ad4527cd8806104b6470268ca30"
-    },
-    {
-        "path": "/media/posts/13/responsive/images-4-md.jpg",
-        "type": "file",
-        "md5": "a3d869925bd9f940330367231f59122b"
-    },
-    {
-        "path": "/media/posts/13/responsive/images-4-sm.jpg",
-        "type": "file",
-        "md5": "a3d869925bd9f940330367231f59122b"
-    },
-    {
-        "path": "/media/posts/13/responsive/images-4-xs.jpg",
-        "type": "file",
-        "md5": "8d7a61592f60abdd3118d06b923c4f5e"
+        "md5": "d0da820432fcf4b37d54a2406a92333b"
     },
     {
         "path": "media/posts/14",
@@ -450,34 +315,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/14/fv.jpg",
+        "path": "/media/posts/14/velvet-1.jfif",
         "type": "file",
-        "md5": "1248a8c18f1fd2e1119ee0c683e15e01"
+        "md5": "699ca7e14929c1cee01bc1b107207af8"
     },
     {
-        "path": "media/posts/14/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/14/responsive/fv-lg.jpg",
+        "path": "/media/posts/14/velvet.jfif",
         "type": "file",
-        "md5": "eb431829ed70eee251231ec504bd2e81"
-    },
-    {
-        "path": "/media/posts/14/responsive/fv-md.jpg",
-        "type": "file",
-        "md5": "eb431829ed70eee251231ec504bd2e81"
-    },
-    {
-        "path": "/media/posts/14/responsive/fv-sm.jpg",
-        "type": "file",
-        "md5": "eb431829ed70eee251231ec504bd2e81"
-    },
-    {
-        "path": "/media/posts/14/responsive/fv-xs.jpg",
-        "type": "file",
-        "md5": "6698bf6ca206c59167eb210f0c02f1fc"
+        "md5": "6b7b4f3ca45b12543c648fdb286ae3d5"
     },
     {
         "path": "media/posts/15",
@@ -485,54 +330,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/15/f.jpg",
+        "path": "/media/posts/15/lshaped.jfif",
         "type": "file",
-        "md5": "970e0b1e4d9c9c7b2f7e1ccf57aa4a3a"
+        "md5": "1d2654db44746fe15a4b3b74153ee4a7"
     },
     {
-        "path": "/media/posts/15/g.jpg",
+        "path": "/media/posts/15/lshaped1.jfif",
         "type": "file",
-        "md5": "041ba76092145dfd7574677a34865b45"
-    },
-    {
-        "path": "media/posts/15/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/15/responsive/f-md.jpg",
-        "type": "file",
-        "md5": "69c40564e5a8d092eda2979076e22f9c"
-    },
-    {
-        "path": "/media/posts/15/responsive/f-sm.jpg",
-        "type": "file",
-        "md5": "69c40564e5a8d092eda2979076e22f9c"
-    },
-    {
-        "path": "/media/posts/15/responsive/f-xs.jpg",
-        "type": "file",
-        "md5": "69c40564e5a8d092eda2979076e22f9c"
-    },
-    {
-        "path": "/media/posts/15/responsive/g-lg.jpg",
-        "type": "file",
-        "md5": "23501bb8bf5390c83fb0b0e32ba4694d"
-    },
-    {
-        "path": "/media/posts/15/responsive/g-md.jpg",
-        "type": "file",
-        "md5": "23501bb8bf5390c83fb0b0e32ba4694d"
-    },
-    {
-        "path": "/media/posts/15/responsive/g-sm.jpg",
-        "type": "file",
-        "md5": "4610f6250c7c759342667f3d89719110"
-    },
-    {
-        "path": "/media/posts/15/responsive/g-xs.jpg",
-        "type": "file",
-        "md5": "2708101143884588bac4c4bfb1ddd2d3"
+        "md5": "221aaef8eaadb3a172d57a39fc5394c2"
     },
     {
         "path": "media/posts/16",
@@ -540,54 +345,74 @@
         "md5": false
     },
     {
-        "path": "/media/posts/16/d.jpg",
-        "type": "file",
-        "md5": "20bbc1bf385575d175fbf7695c98a67d"
-    },
-    {
-        "path": "/media/posts/16/g.jpg",
-        "type": "file",
-        "md5": "56ff71183b63aaf716151fe44de1fd4d"
-    },
-    {
         "path": "media/posts/16/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/16/responsive/d-lg.jpg",
+        "path": "/media/posts/16/responsive/wallsj-2xl.jpg",
         "type": "file",
-        "md5": "9b4b122c7dd72c573810d4de6728dcb9"
+        "md5": "81dac6c40320c0d18d5489fa50b294e5"
     },
     {
-        "path": "/media/posts/16/responsive/d-md.jpg",
+        "path": "/media/posts/16/responsive/wallsj-lg.jpg",
         "type": "file",
-        "md5": "9b4b122c7dd72c573810d4de6728dcb9"
+        "md5": "81dac6c40320c0d18d5489fa50b294e5"
     },
     {
-        "path": "/media/posts/16/responsive/d-sm.jpg",
+        "path": "/media/posts/16/responsive/wallsj-md.jpg",
         "type": "file",
-        "md5": "9b4b122c7dd72c573810d4de6728dcb9"
+        "md5": "81dac6c40320c0d18d5489fa50b294e5"
     },
     {
-        "path": "/media/posts/16/responsive/d-xs.jpg",
+        "path": "/media/posts/16/responsive/wallsj-sm.jpg",
         "type": "file",
-        "md5": "27522185e99e327a17de17edb879adfb"
+        "md5": "81dac6c40320c0d18d5489fa50b294e5"
     },
     {
-        "path": "/media/posts/16/responsive/g-md.jpg",
+        "path": "/media/posts/16/responsive/wallsj-sm2.jpg",
         "type": "file",
-        "md5": "1e01f92b86c74fd7f7395a7978e5ad86"
+        "md5": "81dac6c40320c0d18d5489fa50b294e5"
     },
     {
-        "path": "/media/posts/16/responsive/g-sm.jpg",
+        "path": "/media/posts/16/responsive/wallsj-xl.jpg",
         "type": "file",
-        "md5": "1e01f92b86c74fd7f7395a7978e5ad86"
+        "md5": "81dac6c40320c0d18d5489fa50b294e5"
     },
     {
-        "path": "/media/posts/16/responsive/g-xs.jpg",
+        "path": "/media/posts/16/responsive/wallsj-xs.jpg",
         "type": "file",
-        "md5": "12d6f91009bb3938dbc196b53e300249"
+        "md5": "81dac6c40320c0d18d5489fa50b294e5"
+    },
+    {
+        "path": "/media/posts/16/responsive/wallsss-lg.jpg",
+        "type": "file",
+        "md5": "1621ad7b19b33ae240752e42c6e0bcf2"
+    },
+    {
+        "path": "/media/posts/16/responsive/wallsss-md.jpg",
+        "type": "file",
+        "md5": "1621ad7b19b33ae240752e42c6e0bcf2"
+    },
+    {
+        "path": "/media/posts/16/responsive/wallsss-sm.jpg",
+        "type": "file",
+        "md5": "94094dfe0a769c1cc727875cfff36d85"
+    },
+    {
+        "path": "/media/posts/16/responsive/wallsss-xs.jpg",
+        "type": "file",
+        "md5": "0140426c1aaad6f268e978e7f5fcc14f"
+    },
+    {
+        "path": "/media/posts/16/wallsj.jpg",
+        "type": "file",
+        "md5": "d1f6a9e240b16eb08c305c8de1b6e2d3"
+    },
+    {
+        "path": "/media/posts/16/wallsss.jpg",
+        "type": "file",
+        "md5": "32d12f9b18b692b208dc033f537db9a4"
     },
     {
         "path": "media/posts/17",
@@ -595,14 +420,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/17/f.jpg",
+        "path": "/media/posts/17/images-5.jpg",
         "type": "file",
-        "md5": "236b1c28afdce40a09691fde60679a21"
+        "md5": "d0c3c93d47a5f4a4fd7429207c4b1420"
     },
     {
-        "path": "/media/posts/17/g.jpg",
+        "path": "/media/posts/17/images-6.jpg",
         "type": "file",
-        "md5": "df630baad85e9fde1528f0621d92e3f3"
+        "md5": "f21c812d6006aba338f689469a337cd4"
     },
     {
         "path": "media/posts/17/responsive",
@@ -610,39 +435,59 @@
         "md5": false
     },
     {
-        "path": "/media/posts/17/responsive/f-md.jpg",
+        "path": "/media/posts/17/responsive/images-5-2xl.jpg",
         "type": "file",
-        "md5": "c782a10e42609b07b5908f71700097c9"
+        "md5": "f8200d57ffa037bb9bd8d2a02fa191d2"
     },
     {
-        "path": "/media/posts/17/responsive/f-sm.jpg",
+        "path": "/media/posts/17/responsive/images-5-lg.jpg",
         "type": "file",
-        "md5": "d21fd71be27144fa09f811373af8369b"
+        "md5": "f8200d57ffa037bb9bd8d2a02fa191d2"
     },
     {
-        "path": "/media/posts/17/responsive/f-xs.jpg",
+        "path": "/media/posts/17/responsive/images-5-md.jpg",
         "type": "file",
-        "md5": "a2725481af057c5b2d0476b288afbc61"
+        "md5": "f8200d57ffa037bb9bd8d2a02fa191d2"
     },
     {
-        "path": "/media/posts/17/responsive/g-lg.jpg",
+        "path": "/media/posts/17/responsive/images-5-sm.jpg",
         "type": "file",
-        "md5": "f94bfaa8aef4edea372773ea3e688067"
+        "md5": "5025612eed484c96c16416e3eca926b9"
     },
     {
-        "path": "/media/posts/17/responsive/g-md.jpg",
+        "path": "/media/posts/17/responsive/images-5-sm2.jpg",
         "type": "file",
-        "md5": "f94bfaa8aef4edea372773ea3e688067"
+        "md5": "54ac838e2d7145987d5bb8dc1a38f9be"
     },
     {
-        "path": "/media/posts/17/responsive/g-sm.jpg",
+        "path": "/media/posts/17/responsive/images-5-xl.jpg",
         "type": "file",
-        "md5": "f94bfaa8aef4edea372773ea3e688067"
+        "md5": "f8200d57ffa037bb9bd8d2a02fa191d2"
     },
     {
-        "path": "/media/posts/17/responsive/g-xs.jpg",
+        "path": "/media/posts/17/responsive/images-5-xs.jpg",
         "type": "file",
-        "md5": "f94bfaa8aef4edea372773ea3e688067"
+        "md5": "e02dc92c1d6f5f755c69e1a441fbd550"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-6-lg.jpg",
+        "type": "file",
+        "md5": "be22fd875473dc42766bf52af906c3c1"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-6-md.jpg",
+        "type": "file",
+        "md5": "be22fd875473dc42766bf52af906c3c1"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-6-sm.jpg",
+        "type": "file",
+        "md5": "be22fd875473dc42766bf52af906c3c1"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-6-xs.jpg",
+        "type": "file",
+        "md5": "7d900c0d348fd21e6fa7bd2bce10487f"
     },
     {
         "path": "media/posts/18",
@@ -650,9 +495,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/18/n.jpg",
+        "path": "/media/posts/18/p.jpg",
         "type": "file",
-        "md5": "df9d3ed159cd5993ab7a913cf0aab918"
+        "md5": "974850d1bf8642253d023f6cf9017db2"
     },
     {
         "path": "media/posts/18/responsive",
@@ -660,44 +505,64 @@
         "md5": false
     },
     {
-        "path": "/media/posts/18/responsive/n-md.jpg",
+        "path": "/media/posts/18/responsive/p-lg.jpg",
         "type": "file",
-        "md5": "1b2e1db2529c145174e0f11d9b3968a0"
+        "md5": "cce75a52adb52517fba28726920de140"
     },
     {
-        "path": "/media/posts/18/responsive/n-sm.jpg",
+        "path": "/media/posts/18/responsive/p-md.jpg",
         "type": "file",
-        "md5": "1b2e1db2529c145174e0f11d9b3968a0"
+        "md5": "cce75a52adb52517fba28726920de140"
     },
     {
-        "path": "/media/posts/18/responsive/n-xs.jpg",
+        "path": "/media/posts/18/responsive/p-sm.jpg",
         "type": "file",
-        "md5": "62c8e43e3832acb77af9686048da6ff6"
+        "md5": "cce75a52adb52517fba28726920de140"
     },
     {
-        "path": "/media/posts/18/responsive/v-lg.jpg",
+        "path": "/media/posts/18/responsive/p-xs.jpg",
         "type": "file",
-        "md5": "b79c12da58f526e1c7a74a72a2bf2025"
+        "md5": "cce75a52adb52517fba28726920de140"
     },
     {
-        "path": "/media/posts/18/responsive/v-md.jpg",
+        "path": "/media/posts/18/responsive/u-2xl.jpg",
         "type": "file",
-        "md5": "b79c12da58f526e1c7a74a72a2bf2025"
+        "md5": "0b961d47821804b5520b1189d8bb1880"
     },
     {
-        "path": "/media/posts/18/responsive/v-sm.jpg",
+        "path": "/media/posts/18/responsive/u-lg.jpg",
         "type": "file",
-        "md5": "be95b0abb0ce9018a8c410c227907b9f"
+        "md5": "0b961d47821804b5520b1189d8bb1880"
     },
     {
-        "path": "/media/posts/18/responsive/v-xs.jpg",
+        "path": "/media/posts/18/responsive/u-md.jpg",
         "type": "file",
-        "md5": "aaae2636026abd0e873ed070c2b104f0"
+        "md5": "0b961d47821804b5520b1189d8bb1880"
     },
     {
-        "path": "/media/posts/18/v.jpg",
+        "path": "/media/posts/18/responsive/u-sm.jpg",
         "type": "file",
-        "md5": "5b2ae5442ee265bcad2431fb9434a576"
+        "md5": "0b961d47821804b5520b1189d8bb1880"
+    },
+    {
+        "path": "/media/posts/18/responsive/u-sm2.jpg",
+        "type": "file",
+        "md5": "27676769ffc6ddfa95f28543f3f3510d"
+    },
+    {
+        "path": "/media/posts/18/responsive/u-xl.jpg",
+        "type": "file",
+        "md5": "0b961d47821804b5520b1189d8bb1880"
+    },
+    {
+        "path": "/media/posts/18/responsive/u-xs.jpg",
+        "type": "file",
+        "md5": "a40a951f672e98dbf894de751be60471"
+    },
+    {
+        "path": "/media/posts/18/u.jpg",
+        "type": "file",
+        "md5": "e15fe8ace004e559f6ca1c4384898387"
     },
     {
         "path": "media/posts/19",
@@ -705,14 +570,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/19/g.jpg",
+        "path": "/media/posts/19/images-37.jpg",
         "type": "file",
-        "md5": "59155ec3858ddb409be107be3411865e"
+        "md5": "32d12f9b18b692b208dc033f537db9a4"
     },
     {
-        "path": "/media/posts/19/n.jpg",
+        "path": "/media/posts/19/images-38.jpg",
         "type": "file",
-        "md5": "df9d3ed159cd5993ab7a913cf0aab918"
+        "md5": "5cd6acf77a2c5865604f5733f73860fd"
     },
     {
         "path": "media/posts/19/responsive",
@@ -720,39 +585,59 @@
         "md5": false
     },
     {
-        "path": "/media/posts/19/responsive/g-lg.jpg",
+        "path": "/media/posts/19/responsive/images-37-lg.jpg",
         "type": "file",
-        "md5": "6a2346880947af2fa2422e0015e4c6a2"
+        "md5": "1621ad7b19b33ae240752e42c6e0bcf2"
     },
     {
-        "path": "/media/posts/19/responsive/g-md.jpg",
+        "path": "/media/posts/19/responsive/images-37-md.jpg",
         "type": "file",
-        "md5": "6a2346880947af2fa2422e0015e4c6a2"
+        "md5": "1621ad7b19b33ae240752e42c6e0bcf2"
     },
     {
-        "path": "/media/posts/19/responsive/g-sm.jpg",
+        "path": "/media/posts/19/responsive/images-37-sm.jpg",
         "type": "file",
-        "md5": "8dcf51370b8441b4391f2709595b6f4c"
+        "md5": "94094dfe0a769c1cc727875cfff36d85"
     },
     {
-        "path": "/media/posts/19/responsive/g-xs.jpg",
+        "path": "/media/posts/19/responsive/images-37-xs.jpg",
         "type": "file",
-        "md5": "a0f4ca0ad8bdb6d4257e2b7109613cf8"
+        "md5": "0140426c1aaad6f268e978e7f5fcc14f"
     },
     {
-        "path": "/media/posts/19/responsive/n-md.jpg",
+        "path": "/media/posts/19/responsive/images-38-2xl.jpg",
         "type": "file",
-        "md5": "1b2e1db2529c145174e0f11d9b3968a0"
+        "md5": "d6ca8260c683dc8a311dd7fa640cef59"
     },
     {
-        "path": "/media/posts/19/responsive/n-sm.jpg",
+        "path": "/media/posts/19/responsive/images-38-lg.jpg",
         "type": "file",
-        "md5": "1b2e1db2529c145174e0f11d9b3968a0"
+        "md5": "d6ca8260c683dc8a311dd7fa640cef59"
     },
     {
-        "path": "/media/posts/19/responsive/n-xs.jpg",
+        "path": "/media/posts/19/responsive/images-38-md.jpg",
         "type": "file",
-        "md5": "62c8e43e3832acb77af9686048da6ff6"
+        "md5": "d6ca8260c683dc8a311dd7fa640cef59"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-38-sm.jpg",
+        "type": "file",
+        "md5": "ab3b7429048a0c62449878f41ede94ee"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-38-sm2.jpg",
+        "type": "file",
+        "md5": "9d63e7b2be6fa47e201607592261d44d"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-38-xl.jpg",
+        "type": "file",
+        "md5": "d6ca8260c683dc8a311dd7fa640cef59"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-38-xs.jpg",
+        "type": "file",
+        "md5": "415df47a85d72e81b5edffea9ac35a24"
     },
     {
         "path": "media/posts/20",
@@ -760,14 +645,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/20/images-39.jpg",
+        "path": "/media/posts/20/images-92.jpg",
         "type": "file",
-        "md5": "9ff0e05f81ca6ff0fa9249b6356110ff"
+        "md5": "0e9cbcb08b9e60351fc055cd62c58694"
     },
     {
-        "path": "/media/posts/20/images-40.jpg",
+        "path": "/media/posts/20/images-93.jpg",
         "type": "file",
-        "md5": "61d323d63adb49f6afb986a8bc308779"
+        "md5": "ddf6845f883dab03884b73bf5c49ed9d"
     },
     {
         "path": "media/posts/20/responsive",
@@ -775,39 +660,59 @@
         "md5": false
     },
     {
-        "path": "/media/posts/20/responsive/images-39-md.jpg",
+        "path": "/media/posts/20/responsive/images-92-lg.jpg",
         "type": "file",
-        "md5": "5b66d13107242f37cda29fb9079553a3"
+        "md5": "0c4ec8f70aa1af83c8bd16607102863f"
     },
     {
-        "path": "/media/posts/20/responsive/images-39-sm.jpg",
+        "path": "/media/posts/20/responsive/images-92-md.jpg",
         "type": "file",
-        "md5": "726b6042e6021c2e20bf063928adf581"
+        "md5": "0c4ec8f70aa1af83c8bd16607102863f"
     },
     {
-        "path": "/media/posts/20/responsive/images-39-xs.jpg",
+        "path": "/media/posts/20/responsive/images-92-sm.jpg",
         "type": "file",
-        "md5": "ec5552631ce595de141605557d6b96db"
+        "md5": "0c4ec8f70aa1af83c8bd16607102863f"
     },
     {
-        "path": "/media/posts/20/responsive/images-40-lg.jpg",
+        "path": "/media/posts/20/responsive/images-92-xs.jpg",
         "type": "file",
-        "md5": "bcb6c4637ab5d1ac5b2b9c423e45f0d4"
+        "md5": "6104b417dd92f66ba783d51df6e7f4c2"
     },
     {
-        "path": "/media/posts/20/responsive/images-40-md.jpg",
+        "path": "/media/posts/20/responsive/images-93-2xl.jpg",
         "type": "file",
-        "md5": "bcb6c4637ab5d1ac5b2b9c423e45f0d4"
+        "md5": "a71063d605425e9b91f6654c23fe7b73"
     },
     {
-        "path": "/media/posts/20/responsive/images-40-sm.jpg",
+        "path": "/media/posts/20/responsive/images-93-lg.jpg",
         "type": "file",
-        "md5": "bcb6c4637ab5d1ac5b2b9c423e45f0d4"
+        "md5": "a71063d605425e9b91f6654c23fe7b73"
     },
     {
-        "path": "/media/posts/20/responsive/images-40-xs.jpg",
+        "path": "/media/posts/20/responsive/images-93-md.jpg",
         "type": "file",
-        "md5": "2969e3607f73457a6fdfb1e6fe462997"
+        "md5": "a71063d605425e9b91f6654c23fe7b73"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-sm.jpg",
+        "type": "file",
+        "md5": "56ded26b3eaa5dbf64c736e81eff31d5"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-sm2.jpg",
+        "type": "file",
+        "md5": "d2f3764fb31f6d04510ad27b88d65e4a"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-xl.jpg",
+        "type": "file",
+        "md5": "a71063d605425e9b91f6654c23fe7b73"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-93-xs.jpg",
+        "type": "file",
+        "md5": "b846f0fd73a9f35eb0b9b2145dd4313a"
     },
     {
         "path": "media/posts/21",
@@ -815,14 +720,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/21/images-98-2.jpg",
+        "path": "/media/posts/21/images-2026-10-23T001634.250.jpg",
         "type": "file",
-        "md5": "a5b6b6054f49529eea1f75e5c29d4598"
-    },
-    {
-        "path": "/media/posts/21/images-99.jpg",
-        "type": "file",
-        "md5": "2efe1083186b91bf11605cf31603fe3a"
+        "md5": "775bc11cdc8fbf22cae545e9584b1e53"
     },
     {
         "path": "media/posts/21/responsive",
@@ -830,39 +730,39 @@
         "md5": false
     },
     {
-        "path": "/media/posts/21/responsive/images-98-2-md.jpg",
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-2xl.jpg",
         "type": "file",
-        "md5": "ab93d3be3a10bf1067beaafe14dd83bd"
+        "md5": "555788535273d610d43b96e4da99f898"
     },
     {
-        "path": "/media/posts/21/responsive/images-98-2-sm.jpg",
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-lg.jpg",
         "type": "file",
-        "md5": "ab93d3be3a10bf1067beaafe14dd83bd"
+        "md5": "555788535273d610d43b96e4da99f898"
     },
     {
-        "path": "/media/posts/21/responsive/images-98-2-xs.jpg",
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-md.jpg",
         "type": "file",
-        "md5": "1166b75e0ba2541548f2f83881a2b930"
+        "md5": "555788535273d610d43b96e4da99f898"
     },
     {
-        "path": "/media/posts/21/responsive/images-99-lg.jpg",
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-sm.jpg",
         "type": "file",
-        "md5": "ec5d7131c5dd8997d2fb4f652b2a0de6"
+        "md5": "14f5bec32dc7ff85a914b2b05d4b6c40"
     },
     {
-        "path": "/media/posts/21/responsive/images-99-md.jpg",
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-sm2.jpg",
         "type": "file",
-        "md5": "ec5d7131c5dd8997d2fb4f652b2a0de6"
+        "md5": "21bce1ae6833977a699e3534859eb509"
     },
     {
-        "path": "/media/posts/21/responsive/images-99-sm.jpg",
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-xl.jpg",
         "type": "file",
-        "md5": "cf787494de52b7d90e27562b0b3b36ca"
+        "md5": "555788535273d610d43b96e4da99f898"
     },
     {
-        "path": "/media/posts/21/responsive/images-99-xs.jpg",
+        "path": "/media/posts/21/responsive/images-2026-10-23T001634.250-xs.jpg",
         "type": "file",
-        "md5": "85b9e4ab8cd69e6da0cfde01e9f82e3a"
+        "md5": "3d3bf4c51c825fe386dfb38f3f0a1cde"
     },
     {
         "path": "media/posts/22",
@@ -870,14 +770,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/22/images-2026-10-23T003436.172-2.jpg",
+        "path": "/media/posts/22/download-1.jpg",
         "type": "file",
-        "md5": "4da04f5f374eddc51f71721a15ddf9fe"
+        "md5": "a7ff08043b057beee8e727c087fb1470"
     },
     {
-        "path": "/media/posts/22/images-2026-10-23T003440.460.jpg",
+        "path": "/media/posts/22/download-2.jpg",
         "type": "file",
-        "md5": "4d3eb30772ec251a2f2fa242eb5dc144"
+        "md5": "fface7dd3ce5dda50ca79aba2c983fb2"
     },
     {
         "path": "media/posts/22/responsive",
@@ -885,39 +785,59 @@
         "md5": false
     },
     {
-        "path": "/media/posts/22/responsive/images-2026-10-23T003436.172-2-md.jpg",
+        "path": "/media/posts/22/responsive/download-1-lg.jpg",
         "type": "file",
-        "md5": "29384ffdb0e32adb4f0bed8dcdfd9063"
+        "md5": "33b540610b4212f2a4d1dba62e062faa"
     },
     {
-        "path": "/media/posts/22/responsive/images-2026-10-23T003436.172-2-sm.jpg",
+        "path": "/media/posts/22/responsive/download-1-md.jpg",
         "type": "file",
-        "md5": "29384ffdb0e32adb4f0bed8dcdfd9063"
+        "md5": "33b540610b4212f2a4d1dba62e062faa"
     },
     {
-        "path": "/media/posts/22/responsive/images-2026-10-23T003436.172-2-xs.jpg",
+        "path": "/media/posts/22/responsive/download-1-sm.jpg",
         "type": "file",
-        "md5": "ecfbab780b50b8b0cc99361064acabce"
+        "md5": "33b540610b4212f2a4d1dba62e062faa"
     },
     {
-        "path": "/media/posts/22/responsive/images-2026-10-23T003440.460-lg.jpg",
+        "path": "/media/posts/22/responsive/download-1-xs.jpg",
         "type": "file",
-        "md5": "f76ab3e45417f642b203bb43e685c638"
+        "md5": "33b540610b4212f2a4d1dba62e062faa"
     },
     {
-        "path": "/media/posts/22/responsive/images-2026-10-23T003440.460-md.jpg",
+        "path": "/media/posts/22/responsive/download-2-2xl.jpg",
         "type": "file",
-        "md5": "f76ab3e45417f642b203bb43e685c638"
+        "md5": "dbf542dad53e07392899b5360af453d7"
     },
     {
-        "path": "/media/posts/22/responsive/images-2026-10-23T003440.460-sm.jpg",
+        "path": "/media/posts/22/responsive/download-2-lg.jpg",
         "type": "file",
-        "md5": "2da968634fd5537cfff43f5d802330fb"
+        "md5": "dbf542dad53e07392899b5360af453d7"
     },
     {
-        "path": "/media/posts/22/responsive/images-2026-10-23T003440.460-xs.jpg",
+        "path": "/media/posts/22/responsive/download-2-md.jpg",
         "type": "file",
-        "md5": "9c2aa360f33473d68a678595809a7ff1"
+        "md5": "dbf542dad53e07392899b5360af453d7"
+    },
+    {
+        "path": "/media/posts/22/responsive/download-2-sm.jpg",
+        "type": "file",
+        "md5": "dbf542dad53e07392899b5360af453d7"
+    },
+    {
+        "path": "/media/posts/22/responsive/download-2-sm2.jpg",
+        "type": "file",
+        "md5": "dbf542dad53e07392899b5360af453d7"
+    },
+    {
+        "path": "/media/posts/22/responsive/download-2-xl.jpg",
+        "type": "file",
+        "md5": "dbf542dad53e07392899b5360af453d7"
+    },
+    {
+        "path": "/media/posts/22/responsive/download-2-xs.jpg",
+        "type": "file",
+        "md5": "dbf542dad53e07392899b5360af453d7"
     },
     {
         "path": "media/posts/4",
@@ -925,54 +845,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/4/g.jpg",
+        "path": "/media/posts/4/stylish-walls-2.jfif",
         "type": "file",
-        "md5": "cf76606cb78bc2095e2b73cd227d7f6e"
+        "md5": "a7aaa846411a3bdbb2c0257061198159"
     },
     {
-        "path": "/media/posts/4/h.jpg",
+        "path": "/media/posts/4/WALLS.jfif",
         "type": "file",
-        "md5": "4b95b282bdd48953536df81ddf9f5640"
-    },
-    {
-        "path": "media/posts/4/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/4/responsive/g-lg.jpg",
-        "type": "file",
-        "md5": "06efa0aa81e3e6d2d8ac673090d60b2d"
-    },
-    {
-        "path": "/media/posts/4/responsive/g-md.jpg",
-        "type": "file",
-        "md5": "06efa0aa81e3e6d2d8ac673090d60b2d"
-    },
-    {
-        "path": "/media/posts/4/responsive/g-sm.jpg",
-        "type": "file",
-        "md5": "53305b3db79764798d408504052c1062"
-    },
-    {
-        "path": "/media/posts/4/responsive/g-xs.jpg",
-        "type": "file",
-        "md5": "76f9c32610a70d62cf44c7dd47d5518a"
-    },
-    {
-        "path": "/media/posts/4/responsive/h-md.jpg",
-        "type": "file",
-        "md5": "d92ef38e87bdc13e74ae672c4c0c7e8f"
-    },
-    {
-        "path": "/media/posts/4/responsive/h-sm.jpg",
-        "type": "file",
-        "md5": "d92ef38e87bdc13e74ae672c4c0c7e8f"
-    },
-    {
-        "path": "/media/posts/4/responsive/h-xs.jpg",
-        "type": "file",
-        "md5": "a14455d54e2dd3a6538e9b024e248861"
+        "md5": "b441b1e74368a63fa403fbd121b78177"
     },
     {
         "path": "media/posts/5",
@@ -980,54 +860,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/5/gy.jpg",
+        "path": "/media/posts/5/designing-home-interiors.jfif",
         "type": "file",
-        "md5": "7a1b0b2b4492a8a0fd1c8fe17dbfb04a"
+        "md5": "8d594b34324770f522883b417f2cc23b"
     },
     {
-        "path": "/media/posts/5/km.jpg",
+        "path": "/media/posts/5/home-interios.jfif",
         "type": "file",
-        "md5": "23825e2ace40810aee693a3be4c8e653"
-    },
-    {
-        "path": "media/posts/5/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/5/responsive/gy-lg.jpg",
-        "type": "file",
-        "md5": "4b0f2dce03f5a5f791d0e80462438684"
-    },
-    {
-        "path": "/media/posts/5/responsive/gy-md.jpg",
-        "type": "file",
-        "md5": "4b0f2dce03f5a5f791d0e80462438684"
-    },
-    {
-        "path": "/media/posts/5/responsive/gy-sm.jpg",
-        "type": "file",
-        "md5": "4b0f2dce03f5a5f791d0e80462438684"
-    },
-    {
-        "path": "/media/posts/5/responsive/gy-xs.jpg",
-        "type": "file",
-        "md5": "e60c604b766f03d6d06ea0e6ff85d92c"
-    },
-    {
-        "path": "/media/posts/5/responsive/km-md.jpg",
-        "type": "file",
-        "md5": "edcf08dc232ac273062862502e4546ba"
-    },
-    {
-        "path": "/media/posts/5/responsive/km-sm.jpg",
-        "type": "file",
-        "md5": "edcf08dc232ac273062862502e4546ba"
-    },
-    {
-        "path": "/media/posts/5/responsive/km-xs.jpg",
-        "type": "file",
-        "md5": "70c5d04d88c8eae9dadf8519fd15626d"
+        "md5": "e0f68fc059d8ff311abf5b2b471ab7f5"
     },
     {
         "path": "media/posts/6",
@@ -1035,54 +875,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/6/j.jpg",
+        "path": "/media/posts/6/Creative-Styling-Ideas.jfif",
         "type": "file",
-        "md5": "f77d6ede987e8bb9db4580f642a8efe6"
+        "md5": "caae0b61cb9406d45202063403376e16"
     },
     {
-        "path": "/media/posts/6/ji.jpg",
+        "path": "/media/posts/6/Modern-Home-Interiors.jfif",
         "type": "file",
-        "md5": "ac43130e4f8a69ab7ac9eae01ef19f4b"
-    },
-    {
-        "path": "media/posts/6/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/6/responsive/j-lg.jpg",
-        "type": "file",
-        "md5": "a14adb4fd5936df9c35f4629c08c7d1a"
-    },
-    {
-        "path": "/media/posts/6/responsive/j-md.jpg",
-        "type": "file",
-        "md5": "a14adb4fd5936df9c35f4629c08c7d1a"
-    },
-    {
-        "path": "/media/posts/6/responsive/j-sm.jpg",
-        "type": "file",
-        "md5": "2721fe44e7942c87fc90c5eaec430602"
-    },
-    {
-        "path": "/media/posts/6/responsive/j-xs.jpg",
-        "type": "file",
-        "md5": "91bb92977085ea7fe3715aa8e47c761d"
-    },
-    {
-        "path": "/media/posts/6/responsive/ji-md.jpg",
-        "type": "file",
-        "md5": "f1afbe3318f0237d85ad84bc20cc34b7"
-    },
-    {
-        "path": "/media/posts/6/responsive/ji-sm.jpg",
-        "type": "file",
-        "md5": "f1afbe3318f0237d85ad84bc20cc34b7"
-    },
-    {
-        "path": "/media/posts/6/responsive/ji-xs.jpg",
-        "type": "file",
-        "md5": "25359839477a80b98122e0db88758d23"
+        "md5": "82e7697f937307dbdef9105b47422ee3"
     },
     {
         "path": "media/posts/7",
@@ -1090,54 +890,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/7/hj.jpg",
+        "path": "/media/posts/7/Inspiring-Wall-Colors-and-Accent-Paints-for-Modern-Interiors.jfif",
         "type": "file",
-        "md5": "bb4454b3dc3ab20befb8cb8bc22b9e45"
+        "md5": "941195487c15035cff1348b66951a5e4"
     },
     {
-        "path": "/media/posts/7/jn.jpg",
+        "path": "/media/posts/7/Wall-Colors.jfif",
         "type": "file",
-        "md5": "2a67aa5ce650d729bd71e97cba2ed580"
-    },
-    {
-        "path": "media/posts/7/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/7/responsive/hj-lg.jpg",
-        "type": "file",
-        "md5": "fe88416a7c695759c182e56756ac624e"
-    },
-    {
-        "path": "/media/posts/7/responsive/hj-md.jpg",
-        "type": "file",
-        "md5": "fe88416a7c695759c182e56756ac624e"
-    },
-    {
-        "path": "/media/posts/7/responsive/hj-sm.jpg",
-        "type": "file",
-        "md5": "004c8a37cd999323c86ec35f1bf388c2"
-    },
-    {
-        "path": "/media/posts/7/responsive/hj-xs.jpg",
-        "type": "file",
-        "md5": "11dd754955bbdc09c61511d5880ce68e"
-    },
-    {
-        "path": "/media/posts/7/responsive/jn-md.jpg",
-        "type": "file",
-        "md5": "533f58ea9fb92a46c6ce79de6a75022b"
-    },
-    {
-        "path": "/media/posts/7/responsive/jn-sm.jpg",
-        "type": "file",
-        "md5": "533f58ea9fb92a46c6ce79de6a75022b"
-    },
-    {
-        "path": "/media/posts/7/responsive/jn-xs.jpg",
-        "type": "file",
-        "md5": "a4f8e9243dbb5549065ef02ead08eb89"
+        "md5": "f568c1c9e2797a92cf616a2cf958076d"
     },
     {
         "path": "media/posts/8",
@@ -1145,54 +905,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/8/hj.jpg",
+        "path": "/media/posts/8/texture.jfif",
         "type": "file",
-        "md5": "675bc1ec6c977bccc2f29f58b772549d"
+        "md5": "4298fe1e4acd7544acdf7bd8b61b8830"
     },
     {
-        "path": "/media/posts/8/ijk.jpg",
+        "path": "/media/posts/8/txturee.jfif",
         "type": "file",
-        "md5": "ca0e4b7b31438026cb911c474fb9e537"
-    },
-    {
-        "path": "media/posts/8/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/8/responsive/hj-md.jpg",
-        "type": "file",
-        "md5": "38a8c1d0910c9f2042309ee9644db188"
-    },
-    {
-        "path": "/media/posts/8/responsive/hj-sm.jpg",
-        "type": "file",
-        "md5": "38a8c1d0910c9f2042309ee9644db188"
-    },
-    {
-        "path": "/media/posts/8/responsive/hj-xs.jpg",
-        "type": "file",
-        "md5": "242bec2294a91db52cf6b2989bf46006"
-    },
-    {
-        "path": "/media/posts/8/responsive/ijk-lg.jpg",
-        "type": "file",
-        "md5": "41c86782c84159db4ca91dce861365b4"
-    },
-    {
-        "path": "/media/posts/8/responsive/ijk-md.jpg",
-        "type": "file",
-        "md5": "41c86782c84159db4ca91dce861365b4"
-    },
-    {
-        "path": "/media/posts/8/responsive/ijk-sm.jpg",
-        "type": "file",
-        "md5": "83a2ea04902737c3e6c90ee6dcd88daf"
-    },
-    {
-        "path": "/media/posts/8/responsive/ijk-xs.jpg",
-        "type": "file",
-        "md5": "16e820ce3826cac16c6b1d71a8968f84"
+        "md5": "5c5f575c728d82bd4dbe5a29cb751af3"
     },
     {
         "path": "media/posts/9",
@@ -1200,54 +920,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/9/d.jpg",
+        "path": "/media/posts/9/paint-t.jfif",
         "type": "file",
-        "md5": "da9489d3639930fafe441ee19d6ed037"
+        "md5": "85115b269ae9915c8ccc81255dbdaa6e"
     },
     {
-        "path": "/media/posts/9/ef.jpg",
+        "path": "/media/posts/9/paint-trend.jfif",
         "type": "file",
-        "md5": "41c43705a4ac5bbd0f0bd96ac2d28b60"
-    },
-    {
-        "path": "media/posts/9/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/9/responsive/d-lg.jpg",
-        "type": "file",
-        "md5": "a75c1e077e5d02a350b8e3c5ee6f4408"
-    },
-    {
-        "path": "/media/posts/9/responsive/d-md.jpg",
-        "type": "file",
-        "md5": "a75c1e077e5d02a350b8e3c5ee6f4408"
-    },
-    {
-        "path": "/media/posts/9/responsive/d-sm.jpg",
-        "type": "file",
-        "md5": "a75c1e077e5d02a350b8e3c5ee6f4408"
-    },
-    {
-        "path": "/media/posts/9/responsive/d-xs.jpg",
-        "type": "file",
-        "md5": "9eae2e9487a3598fc06ae89ca8c97533"
-    },
-    {
-        "path": "/media/posts/9/responsive/ef-md.jpg",
-        "type": "file",
-        "md5": "b5d677090c2957495c4b4ae730eaa082"
-    },
-    {
-        "path": "/media/posts/9/responsive/ef-sm.jpg",
-        "type": "file",
-        "md5": "d215c1d4de27f5820cb13b77d4585181"
-    },
-    {
-        "path": "/media/posts/9/responsive/ef-xs.jpg",
-        "type": "file",
-        "md5": "1fdead8f5823355b6a6451e8b7ac2224"
+        "md5": "ec0b7cc798c420d3e47ec9d45b70c0fc"
     },
     {
         "path": "media/website",
@@ -1255,44 +935,64 @@
         "md5": false
     },
     {
-        "path": "/media/website/outdoor-and-garden-logo.png",
-        "type": "file",
-        "md5": "568b372c4b51dfff7ff3c20788e84405"
-    },
-    {
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/website/responsive/outdoor-and-garden-logo-2xl.png",
+        "path": "/media/website/responsive/the_decor_palette_logo-2xl.png",
         "type": "file",
-        "md5": "b3355d80d153ba1ad16cc532f5547d89"
+        "md5": "69925f2d6d0cd57a36b7a2af4c5fe836"
     },
     {
-        "path": "/media/website/responsive/outdoor-and-garden-logo-lg.png",
+        "path": "/media/website/responsive/the_decor_palette_logo-lg.png",
         "type": "file",
-        "md5": "b3355d80d153ba1ad16cc532f5547d89"
+        "md5": "4efb9d9b584e93f02e47b4517b089577"
     },
     {
-        "path": "/media/website/responsive/outdoor-and-garden-logo-md.png",
+        "path": "/media/website/responsive/the_decor_palette_logo-md.png",
         "type": "file",
-        "md5": "31d9fd3607683f0de3e125d50374a90f"
+        "md5": "17b4cd190fcd7ad40117d82e8db8a274"
     },
     {
-        "path": "/media/website/responsive/outdoor-and-garden-logo-sm.png",
+        "path": "/media/website/responsive/the_decor_palette_logo-sm.png",
         "type": "file",
-        "md5": "90eb2175526b54233162b25232cdb068"
+        "md5": "59ef18f6a550dce43dc90b5e1a89a152"
     },
     {
-        "path": "/media/website/responsive/outdoor-and-garden-logo-xl.png",
+        "path": "/media/website/responsive/the_decor_palette_logo-xl.png",
         "type": "file",
-        "md5": "b3355d80d153ba1ad16cc532f5547d89"
+        "md5": "113dcb07ee5d6c2360902fec04cde606"
     },
     {
-        "path": "/media/website/responsive/outdoor-and-garden-logo-xs.png",
+        "path": "/media/website/responsive/the_decor_palette_logo-xs.png",
         "type": "file",
-        "md5": "fd88e460b7abb89d3960a4ddc6fefe19"
+        "md5": "0a48da1190eab5e52f4f71724328d821"
+    },
+    {
+        "path": "/media/website/the_decor_palette_logo.png",
+        "type": "file",
+        "md5": "5d45093c1db6d1aa038c1809bed6b92a"
+    },
+    {
+        "path": "modern-decor-accessories-creative-ideas-to-elevate-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/modern-decor-accessories-creative-ideas-to-elevate-your-home/index.html",
+        "type": "file",
+        "md5": "04572466456d09484dc859394ce7d446"
+    },
+    {
+        "path": "modern-ideas-for-stylish-wall-colors-and-accent-paints",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/modern-ideas-for-stylish-wall-colors-and-accent-paints/index.html",
+        "type": "file",
+        "md5": "0c9db011fb560ea1eee71faa602f140d"
     },
     {
         "path": "page",
@@ -1307,47 +1007,27 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b7cf45217035338ec7f1aa05281079bf"
+        "md5": "b3de0e1621d26cfa7e039f7182ddee77"
     },
     {
-        "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
+        "path": "pivacy-policy",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants/index.html",
+        "path": "/pivacy-policy/index.html",
         "type": "file",
-        "md5": "298886baed4dccdccf5fdb8653bfa62e"
-    },
-    {
-        "path": "practical-and-stylish-solutions-for-balcony-and-terrace-furniture",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/practical-and-stylish-solutions-for-balcony-and-terrace-furniture/index.html",
-        "type": "file",
-        "md5": "2bd54c5084003b064cdb11858db54b1f"
-    },
-    {
-        "path": "privacy-policy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/privacy-policy/index.html",
-        "type": "file",
-        "md5": "f956642b9c1b611f5f81dd83366454a0"
+        "md5": "3e6fa41159fdbe0020b84eb135299091"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "38a1f6b377ca614d0010ba625e1079cc"
+        "md5": "ed7a6c3ad74859bd4e0f61c9bd7bc67a"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "24cb692e0c86e63a5aa92ecfa77896aa"
+        "md5": "8fb3d112b1b26d8e118bc75bd145782d"
     },
     {
         "path": "sitemap.xsl",
@@ -1355,44 +1035,44 @@
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
-        "path": "snake-plants-a-practical-guide-to-beautiful-and-resilient-indoor-houseplants",
+        "path": "small-layouts-how-to-design-beautiful-living-room-designs-and-sofas-in-limited-spaces",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/snake-plants-a-practical-guide-to-beautiful-and-resilient-indoor-houseplants/index.html",
+        "path": "/small-layouts-how-to-design-beautiful-living-room-designs-and-sofas-in-limited-spaces/index.html",
         "type": "file",
-        "md5": "14f0b4fd35f88eed7e04c0713b18d63a"
+        "md5": "394899c6e5f51e4b3024edce6d65dd05"
     },
     {
-        "path": "string-lights-stylish-outdoor-illumination-for-every-landscape",
+        "path": "stylish-design-ideas-for-modern-and-timeless-interiors",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/string-lights-stylish-outdoor-illumination-for-every-landscape/index.html",
+        "path": "/stylish-design-ideas-for-modern-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "ffbe825e0e296495ab7f2a5fcf3aa7bc"
+        "md5": "8e9d9c6b8db1b68344578f1a82eb8317"
     },
     {
-        "path": "stylish-solutions-for-landscape-and-exterior-lighting",
+        "path": "stylish-ideas-for-home-lighting-and-lamps",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/stylish-solutions-for-landscape-and-exterior-lighting/index.html",
+        "path": "/stylish-ideas-for-home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "16e65bbf0d89ce3e65ab6d27f5170da7"
+        "md5": "495d3263173f6c6511b6d56fb6a420d6"
     },
     {
-        "path": "succulents-a-natural-touch-of-style-for-modern-indoor-houseplants",
+        "path": "stylish-seating-ideas-for-modern-living-rooms",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/succulents-a-natural-touch-of-style-for-modern-indoor-houseplants/index.html",
+        "path": "/stylish-seating-ideas-for-modern-living-rooms/index.html",
         "type": "file",
-        "md5": "5876c6fee551ad4aa93d76a8f8952973"
+        "md5": "bad357e28f9e2b600efa5a8e20e8f8b2"
     },
     {
         "path": "tags",
@@ -1400,268 +1080,188 @@
         "md5": false
     },
     {
-        "path": "tags/balcony-and-terrace-furniture",
+        "path": "tags/floor-lamps",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/balcony-and-terrace-furniture/index.html",
+        "path": "/tags/floor-lamps/index.html",
         "type": "file",
-        "md5": "6d25e209ec77cdbfb33a9d2948c961f2"
+        "md5": "27e66d834f8c6a7980cb4b5336c06698"
     },
     {
-        "path": "tags/balcony-shelves",
+        "path": "tags/home-lighting-and-lamps",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/balcony-shelves/index.html",
+        "path": "/tags/home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "7eb58106e7de954aa628af362d7d5e95"
-    },
-    {
-        "path": "tags/compact-bistro-sets",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/compact-bistro-sets/index.html",
-        "type": "file",
-        "md5": "46a3f9f538f5bfb291bb15de88b69a7c"
-    },
-    {
-        "path": "tags/folding-tables",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/folding-tables/index.html",
-        "type": "file",
-        "md5": "bbe9f78f78d9ce93f3dd4a564e4bb7ae"
-    },
-    {
-        "path": "tags/garden-benches",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/garden-benches/index.html",
-        "type": "file",
-        "md5": "d8095f198cc8d0c6aad563462961f13f"
-    },
-    {
-        "path": "tags/hanging-chairs",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/hanging-chairs/index.html",
-        "type": "file",
-        "md5": "92967540fb793cf7cbba38bac0651b80"
-    },
-    {
-        "path": "tags/hanging-planters",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/hanging-planters/index.html",
-        "type": "file",
-        "md5": "5f247ad8401b54374aa254b3a8ae46ea"
+        "md5": "6c9738d2e88de1a037d2e22caa5bdd78"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "3b827469f10d4d93d39640447fd85a5d"
+        "md5": "a0b5daea26cccd795c8a56b8cf64342d"
     },
     {
-        "path": "tags/indoor-houseplants",
+        "path": "tags/l-shaped-sectional-sofas",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/indoor-houseplants/index.html",
+        "path": "/tags/l-shaped-sectional-sofas/index.html",
         "type": "file",
-        "md5": "8e27edf05a8b98a3998f40af26030fba"
+        "md5": "3ef4a095e701e97996242fcbde638434"
     },
     {
-        "path": "tags/landscape-and-exterior-lighting",
+        "path": "tags/led-strips",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/landscape-and-exterior-lighting/index.html",
+        "path": "/tags/led-strips/index.html",
         "type": "file",
-        "md5": "acfcb345278661a0b47983c5a5458fcf"
+        "md5": "1e01bf6f4f4461f7cce6a90860457b14"
     },
     {
-        "path": "tags/outdoor-garden-seating",
+        "path": "tags/living-room-designs-and-sofas",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/outdoor-garden-seating/index.html",
+        "path": "/tags/living-room-designs-and-sofas/index.html",
         "type": "file",
-        "md5": "4ba9ebd97b4d755672b4bbc9a0197b7c"
+        "md5": "f8e6e257edae2292ee2bb744aeb8bb13"
     },
     {
-        "path": "tags/pathway-lights",
+        "path": "tags/modern-decor-accessories",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/pathway-lights/index.html",
+        "path": "/tags/modern-decor-accessories/index.html",
         "type": "file",
-        "md5": "13e3818f83ce09bc3ff7ccdd4d6e94e7"
+        "md5": "062b212a0a6242f75665ddba07e4cbf6"
     },
     {
-        "path": "tags/potted-palms",
+        "path": "tags/neutral-wall-colors",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/potted-palms/index.html",
+        "path": "/tags/neutral-wall-colors/index.html",
         "type": "file",
-        "md5": "cc6194f5bef605dbef558574aaed48b4"
+        "md5": "d8faa2676432dd4e9c88f41c247ce901"
     },
     {
-        "path": "tags/rattan-sectionals",
+        "path": "tags/paint-trends",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/rattan-sectionals/index.html",
+        "path": "/tags/paint-trends/index.html",
         "type": "file",
-        "md5": "951d7fc09467a27a9220ee40b016cafa"
+        "md5": "82922bf5e7b30523d799ce011ef46d7a"
     },
     {
-        "path": "tags/snake-plants",
+        "path": "tags/pendant-and-hanging-lights",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/snake-plants/index.html",
+        "path": "/tags/pendant-and-hanging-lights/index.html",
         "type": "file",
-        "md5": "d186e17f9034e16f75158b3617c92662"
+        "md5": "95046abd3a8a24a7da7b22e805d68194"
     },
     {
-        "path": "tags/solar-spotlights",
+        "path": "tags/small-layouts",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/solar-spotlights/index.html",
+        "path": "/tags/small-layouts/index.html",
         "type": "file",
-        "md5": "3964ed730601c469214d528f5c662a3d"
+        "md5": "53579abc514cfe980bd826de193212f6"
     },
     {
-        "path": "tags/string-lights",
+        "path": "tags/textured-walls",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/string-lights/index.html",
+        "path": "/tags/textured-walls/index.html",
         "type": "file",
-        "md5": "544e8af2d0a492cdd4caeb1141199f7f"
+        "md5": "59ec5b2a3ef8af322cdf565f1351ff3f"
     },
     {
-        "path": "tags/succulents",
+        "path": "tags/throw-pillows",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/succulents/index.html",
+        "path": "/tags/throw-pillows/index.html",
         "type": "file",
-        "md5": "85f8cda6c3c91b6d6646483f229da7c9"
+        "md5": "891746077d2d7a25e118238e58cc13bb"
     },
     {
-        "path": "tags/sun-loungers",
+        "path": "tags/velvet-couches",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/sun-loungers/index.html",
+        "path": "/tags/velvet-couches/index.html",
         "type": "file",
-        "md5": "78c79702b57db70cda13ade9fa964add"
+        "md5": "8f6f88b504dd39476a5bcb87f282d811"
     },
     {
-        "path": "tags/wall-sconces",
+        "path": "tags/wall-art-and-mirrors",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/wall-sconces/index.html",
+        "path": "/tags/wall-art-and-mirrors/index.html",
         "type": "file",
-        "md5": "4426c0911cd0b93e75d9474479533570"
+        "md5": "325f94d4a7a2443c96878283aaa9cd3f"
     },
     {
-        "path": "tags/weatherproof-sofas",
+        "path": "tags/wall-colors-and-accent-paints",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tags/weatherproof-sofas/index.html",
+        "path": "/tags/wall-colors-and-accent-paints/index.html",
         "type": "file",
-        "md5": "8bf57b1e23ba12c54f1910c4df0107e5"
+        "md5": "777596b69b6a26b248fa7213e822b243"
     },
     {
-        "path": "transform-your-balcony-into-an-organized-and-beautiful-outdoor-space",
+        "path": "timeless-paint-ideas-for-every-interior-style",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/transform-your-balcony-into-an-organized-and-beautiful-outdoor-space/index.html",
+        "path": "/timeless-paint-ideas-for-every-interior-style/index.html",
         "type": "file",
-        "md5": "424c53a8d89f168cf3b5af6f562e127f"
+        "md5": "f09aeba163f5510645845004aaba2a83"
     },
     {
-        "path": "transform-your-garden-into-a-comfortable-outdoor-living-space",
+        "path": "transform-empty-walls-into-stylish-modern-features",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/transform-your-garden-into-a-comfortable-outdoor-living-space/index.html",
+        "path": "/transform-empty-walls-into-stylish-modern-features/index.html",
         "type": "file",
-        "md5": "3e89cd1dceb557a68c8ab63873b1e6d7"
+        "md5": "0aaa4f7711a498dbb95fda3b9a87bf3f"
     },
     {
-        "path": "transform-your-home-with-creative-indoor-houseplants-displays",
+        "path": "transform-your-interior-with-depth-style-and-personality",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/transform-your-home-with-creative-indoor-houseplants-displays/index.html",
+        "path": "/transform-your-interior-with-depth-style-and-personality/index.html",
         "type": "file",
-        "md5": "fca8887009ef70ff2b64e89be55dbfaf"
-    },
-    {
-        "path": "versatile-furniture-for-modern-balconies-and-terraces",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/versatile-furniture-for-modern-balconies-and-terraces/index.html",
-        "type": "file",
-        "md5": "4ebce4b667c52427d1bdb77804d5e7e4"
-    },
-    {
-        "path": "wall-sconces-stylish-and-functional-solutions-for-landscape-and-exterior-lighting",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/wall-sconces-stylish-and-functional-solutions-for-landscape-and-exterior-lighting/index.html",
-        "type": "file",
-        "md5": "6d31a970dfd023392194eb55a7c1e66c"
-    },
-    {
-        "path": "weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area/index.html",
-        "type": "file",
-        "md5": "0fa988b7140f094a2fbae15a7987807e"
+        "md5": "c9eb5542c118bc1f76d737dff6753a9c"
     }
 ]
