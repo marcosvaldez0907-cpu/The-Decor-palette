@@ -107,7 +107,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "c76ad604de893883b567639df89c63e5"
+        "md5": "da37f27b67eeb148733cf7ced61d9145"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "cc5f7759f87bc88ec2e3ea0b1306cd11"
+        "md5": "96cf242ed5f82d48f1db574a52b90129"
     },
     {
         "path": "contact-us",
@@ -187,12 +187,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8ae0ef8ae235c3178c85c8e13c296c01"
+        "md5": "660ebdc0865b995c8c185b9037586735"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "5ef08ffcc3a2dd681d31c8345523fcf5"
+        "md5": "75b784d1d9c8ba2d90b7395e0a64f7b8"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -212,7 +212,7 @@
     {
         "path": "/how-to-build-a-stylish-and-timeless-interior/index.html",
         "type": "file",
-        "md5": "90659180ddc219c1d8008c571407534f"
+        "md5": "ff3c249bb8c53649466837c92f422dc3"
     },
     {
         "path": "how-to-create-a-sophisticated-living-room-with-luxurious-seating",
@@ -227,7 +227,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d7a254b8eed172c34c080db4f5d942d9"
+        "md5": "4e450345a8e0d4b0a086f7b73400d6e3"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -237,7 +237,7 @@
     {
         "path": "/inspiring-wall-colors-and-accent-paints-for-modern-interiors/index.html",
         "type": "file",
-        "md5": "5f54a84967a77f2cdf6b30e082a06aaf"
+        "md5": "26c8c158edc957d15f435d68cb13af04"
     },
     {
         "path": "media",
@@ -840,6 +840,81 @@
         "md5": "dbf542dad53e07392899b5360af453d7"
     },
     {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/images-2026-10-27T084230.418.jpg",
+        "type": "file",
+        "md5": "7e589f5874464452b267ebf6eec3a837"
+    },
+    {
+        "path": "/media/posts/23/images-2026-10-27T084239.255.jpg",
+        "type": "file",
+        "md5": "c894d3bae2be4dd4521f37737db45d9f"
+    },
+    {
+        "path": "media/posts/23/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084230.418-2xl.jpg",
+        "type": "file",
+        "md5": "9ef86b09a6edffeab0a484c3e34eacc0"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084230.418-lg.jpg",
+        "type": "file",
+        "md5": "9ef86b09a6edffeab0a484c3e34eacc0"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084230.418-md.jpg",
+        "type": "file",
+        "md5": "9ef86b09a6edffeab0a484c3e34eacc0"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084230.418-sm.jpg",
+        "type": "file",
+        "md5": "9ef86b09a6edffeab0a484c3e34eacc0"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084230.418-sm2.jpg",
+        "type": "file",
+        "md5": "d3f48a4a6efd1ea37ad020d5a82beba2"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084230.418-xl.jpg",
+        "type": "file",
+        "md5": "9ef86b09a6edffeab0a484c3e34eacc0"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084230.418-xs.jpg",
+        "type": "file",
+        "md5": "ab3858f3caf55468203c93602c98e385"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084239.255-lg.jpg",
+        "type": "file",
+        "md5": "3be7698dada98ed4c2cb775f62fb676f"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084239.255-md.jpg",
+        "type": "file",
+        "md5": "3be7698dada98ed4c2cb775f62fb676f"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084239.255-sm.jpg",
+        "type": "file",
+        "md5": "e5eb205370971d490781404899fff042"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-10-27T084239.255-xs.jpg",
+        "type": "file",
+        "md5": "50daab2233325bb61874d5185fafa3b3"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -992,7 +1067,17 @@
     {
         "path": "/modern-ideas-for-stylish-wall-colors-and-accent-paints/index.html",
         "type": "file",
-        "md5": "0c9db011fb560ea1eee71faa602f140d"
+        "md5": "30a6484b6be9f0d77a5b7b9607ee4de3"
+    },
+    {
+        "path": "neutral-wall-colors-elegant-and-versatile-ideas-for-modern-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/neutral-wall-colors-elegant-and-versatile-ideas-for-modern-interiors/index.html",
+        "type": "file",
+        "md5": "6dfa7385e728c506d6a15f694fd2d525"
     },
     {
         "path": "page",
@@ -1007,7 +1092,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b3de0e1621d26cfa7e039f7182ddee77"
+        "md5": "c9cc51b6ff48ae3e5adc5a69904b16fe"
     },
     {
         "path": "pivacy-policy",
@@ -1027,7 +1112,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "8fb3d112b1b26d8e118bc75bd145782d"
+        "md5": "252cfcb84a8bffbf473a697cc93c239c"
     },
     {
         "path": "sitemap.xsl",
@@ -1052,7 +1137,7 @@
     {
         "path": "/stylish-design-ideas-for-modern-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "8e9d9c6b8db1b68344578f1a82eb8317"
+        "md5": "d2c07d920ece6e15da59b2a82ebd7e42"
     },
     {
         "path": "stylish-ideas-for-home-lighting-and-lamps",
@@ -1102,7 +1187,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "a0b5daea26cccd795c8a56b8cf64342d"
+        "md5": "44727c34d776492a90d676162c214af5"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
@@ -1152,7 +1237,7 @@
     {
         "path": "/tags/neutral-wall-colors/index.html",
         "type": "file",
-        "md5": "d8faa2676432dd4e9c88f41c247ce901"
+        "md5": "d2f948b11ef935a56fc5a830ae7d77f0"
     },
     {
         "path": "tags/paint-trends",
@@ -1232,7 +1317,7 @@
     {
         "path": "/tags/wall-colors-and-accent-paints/index.html",
         "type": "file",
-        "md5": "777596b69b6a26b248fa7213e822b243"
+        "md5": "2f776425a8b752418d0d99a019f86df0"
     },
     {
         "path": "timeless-paint-ideas-for-every-interior-style",
@@ -1242,7 +1327,7 @@
     {
         "path": "/timeless-paint-ideas-for-every-interior-style/index.html",
         "type": "file",
-        "md5": "f09aeba163f5510645845004aaba2a83"
+        "md5": "9db87d97d52ba1fb134d9d8e7255a371"
     },
     {
         "path": "transform-empty-walls-into-stylish-modern-features",
@@ -1262,6 +1347,6 @@
     {
         "path": "/transform-your-interior-with-depth-style-and-personality/index.html",
         "type": "file",
-        "md5": "c9eb5542c118bc1f76d737dff6753a9c"
+        "md5": "db50435afc5513f8cd309154528ac09c"
     }
 ]
