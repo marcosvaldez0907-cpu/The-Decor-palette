@@ -107,7 +107,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "da37f27b67eeb148733cf7ced61d9145"
+        "md5": "59f267879803b0b618053579393e24bc"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "96cf242ed5f82d48f1db574a52b90129"
+        "md5": "afbb8093ae8270f5b85e3a5da50a3d15"
     },
     {
         "path": "contact-us",
@@ -162,7 +162,7 @@
     {
         "path": "/creative-styling-ideas-for-modern-home-interiors/index.html",
         "type": "file",
-        "md5": "5cfbd898423d7c5731ad82a8abbc5c05"
+        "md5": "f3154e70a0034071b60f511746a9f5b7"
     },
     {
         "path": "creative-ways-to-style-modern-home-interiors",
@@ -172,7 +172,7 @@
     {
         "path": "/creative-ways-to-style-modern-home-interiors/index.html",
         "type": "file",
-        "md5": "4fadfc17cba247134e5ad6b8208a41da"
+        "md5": "8ce80cc02181e342137d08c49e3a2acb"
     },
     {
         "path": "elegant-comfort-for-modern-living-room-designs",
@@ -187,12 +187,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "660ebdc0865b995c8c185b9037586735"
+        "md5": "ad5b4a5535f31deeb7ca00505112ca60"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "75b784d1d9c8ba2d90b7395e0a64f7b8"
+        "md5": "625ac86239059dcea3bc2ffb3b1ade19"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -227,7 +227,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4e450345a8e0d4b0a086f7b73400d6e3"
+        "md5": "b4b67a70bda8eda83b7530b80fbe7b99"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -915,6 +915,81 @@
         "md5": "50daab2233325bb61874d5185fafa3b3"
     },
     {
+        "path": "media/posts/24",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/images-2026-10-29T001604.516.jpg",
+        "type": "file",
+        "md5": "6bd067604b719dad2c718c696fb445a8"
+    },
+    {
+        "path": "/media/posts/24/images-2026-10-29T001613.006.jpg",
+        "type": "file",
+        "md5": "9b697d0957f6c24454c04b95864ff1d0"
+    },
+    {
+        "path": "media/posts/24/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001604.516-lg.jpg",
+        "type": "file",
+        "md5": "d89f936085cdcf999d6e0c6b90c53b8f"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001604.516-md.jpg",
+        "type": "file",
+        "md5": "d89f936085cdcf999d6e0c6b90c53b8f"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001604.516-sm.jpg",
+        "type": "file",
+        "md5": "65e3f8d4bc7d58778f1c2da84f793cc0"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001604.516-xs.jpg",
+        "type": "file",
+        "md5": "c7d8c244a20b43e19b35f06f4febae88"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001613.006-2xl.jpg",
+        "type": "file",
+        "md5": "4acac21b86db681230f892a12d567903"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001613.006-lg.jpg",
+        "type": "file",
+        "md5": "4acac21b86db681230f892a12d567903"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001613.006-md.jpg",
+        "type": "file",
+        "md5": "4acac21b86db681230f892a12d567903"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001613.006-sm.jpg",
+        "type": "file",
+        "md5": "4acac21b86db681230f892a12d567903"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001613.006-sm2.jpg",
+        "type": "file",
+        "md5": "8abb0085ad2fa76ac5182d95a75051de"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001613.006-xl.jpg",
+        "type": "file",
+        "md5": "4acac21b86db681230f892a12d567903"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-29T001613.006-xs.jpg",
+        "type": "file",
+        "md5": "5f7e2e75a092454cb57bdd243578edca"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1057,7 +1132,7 @@
     {
         "path": "/modern-decor-accessories-creative-ideas-to-elevate-your-home/index.html",
         "type": "file",
-        "md5": "04572466456d09484dc859394ce7d446"
+        "md5": "9a0ba0b737a957679d5d13467d5beee4"
     },
     {
         "path": "modern-ideas-for-stylish-wall-colors-and-accent-paints",
@@ -1077,7 +1152,7 @@
     {
         "path": "/neutral-wall-colors-elegant-and-versatile-ideas-for-modern-interiors/index.html",
         "type": "file",
-        "md5": "6dfa7385e728c506d6a15f694fd2d525"
+        "md5": "b1179d4d42f2fe8625d91fa539bd5061"
     },
     {
         "path": "page",
@@ -1092,7 +1167,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "c9cc51b6ff48ae3e5adc5a69904b16fe"
+        "md5": "bd0155841548d03c2d6b66170c924f93"
     },
     {
         "path": "pivacy-policy",
@@ -1112,7 +1187,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "252cfcb84a8bffbf473a697cc93c239c"
+        "md5": "72628e365f56ffbf8e2e935658ced0bb"
     },
     {
         "path": "sitemap.xsl",
@@ -1160,6 +1235,16 @@
         "md5": "bad357e28f9e2b600efa5a8e20e8f8b2"
     },
     {
+        "path": "stylish-ways-to-refresh-your-modern-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stylish-ways-to-refresh-your-modern-home-decor/index.html",
+        "type": "file",
+        "md5": "bec6e23a7e0f9fa75cdee9e93d7ffccc"
+    },
+    {
         "path": "tags",
         "type": "directory",
         "md5": false
@@ -1187,7 +1272,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "44727c34d776492a90d676162c214af5"
+        "md5": "6e357361d945da59a4dc8d6046636499"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
@@ -1227,7 +1312,7 @@
     {
         "path": "/tags/modern-decor-accessories/index.html",
         "type": "file",
-        "md5": "062b212a0a6242f75665ddba07e4cbf6"
+        "md5": "7539ae177c65e873f98afa744a957931"
     },
     {
         "path": "tags/neutral-wall-colors",
@@ -1287,7 +1372,7 @@
     {
         "path": "/tags/throw-pillows/index.html",
         "type": "file",
-        "md5": "891746077d2d7a25e118238e58cc13bb"
+        "md5": "13476abac7748194bd4105dca3dbc4cf"
     },
     {
         "path": "tags/velvet-couches",
@@ -1337,7 +1422,7 @@
     {
         "path": "/transform-empty-walls-into-stylish-modern-features/index.html",
         "type": "file",
-        "md5": "0aaa4f7711a498dbb95fda3b9a87bf3f"
+        "md5": "2b33a7455da1f8cd9a7a7de7e78ac12f"
     },
     {
         "path": "transform-your-interior-with-depth-style-and-personality",
