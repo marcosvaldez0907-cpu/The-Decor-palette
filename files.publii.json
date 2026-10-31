@@ -107,7 +107,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "59f267879803b0b618053579393e24bc"
+        "md5": "a3a9a67a39e1b47da252347fb516b4ef"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -122,7 +122,17 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "afbb8093ae8270f5b85e3a5da50a3d15"
+        "md5": "556ff5be7fa81a9845ac594ced904973"
+    },
+    {
+        "path": "beautiful-decorative-details-that-transform-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/beautiful-decorative-details-that-transform-your-home/index.html",
+        "type": "file",
+        "md5": "7b4624a43d9201622c80cc512ff9fd03"
     },
     {
         "path": "contact-us",
@@ -162,7 +172,7 @@
     {
         "path": "/creative-styling-ideas-for-modern-home-interiors/index.html",
         "type": "file",
-        "md5": "f3154e70a0034071b60f511746a9f5b7"
+        "md5": "a03c1874e94d401756e5b8f06b13471e"
     },
     {
         "path": "creative-ways-to-style-modern-home-interiors",
@@ -172,7 +182,7 @@
     {
         "path": "/creative-ways-to-style-modern-home-interiors/index.html",
         "type": "file",
-        "md5": "8ce80cc02181e342137d08c49e3a2acb"
+        "md5": "5e673a04fdc078a095d67fbd7443b2ee"
     },
     {
         "path": "elegant-comfort-for-modern-living-room-designs",
@@ -187,12 +197,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ad5b4a5535f31deeb7ca00505112ca60"
+        "md5": "b28b0d8dcb6769e0ee3ec80374714b42"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "625ac86239059dcea3bc2ffb3b1ade19"
+        "md5": "581f28764a42da26bfb2c444c49e88e8"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -227,7 +237,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b4b67a70bda8eda83b7530b80fbe7b99"
+        "md5": "a3d6b0730c4cc504bdcbbdc400f3e8fb"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -990,6 +1000,106 @@
         "md5": "5f7e2e75a092454cb57bdd243578edca"
     },
     {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/images-2026-10-31T224633.996-2.jpg",
+        "type": "file",
+        "md5": "af408a804086a1952d431fa99446d7b1"
+    },
+    {
+        "path": "/media/posts/25/images-2026-10-31T224633.996.jpg",
+        "type": "file",
+        "md5": "af408a804086a1952d431fa99446d7b1"
+    },
+    {
+        "path": "/media/posts/25/images-2026-10-31T224644.433.jpg",
+        "type": "file",
+        "md5": "c8306e41298f6a1e39499722f63db5cd"
+    },
+    {
+        "path": "media/posts/25/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-2-2xl.jpg",
+        "type": "file",
+        "md5": "967415ed0621758bbf9dcd896eb0225f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-2-lg.jpg",
+        "type": "file",
+        "md5": "967415ed0621758bbf9dcd896eb0225f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-2-md.jpg",
+        "type": "file",
+        "md5": "967415ed0621758bbf9dcd896eb0225f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-2-sm.jpg",
+        "type": "file",
+        "md5": "967415ed0621758bbf9dcd896eb0225f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-2-sm2.jpg",
+        "type": "file",
+        "md5": "0bf5e412c833c58f2c7d98ad96b77eb3"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-2-xl.jpg",
+        "type": "file",
+        "md5": "967415ed0621758bbf9dcd896eb0225f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-2-xs.jpg",
+        "type": "file",
+        "md5": "f080622ae5ca5f34098012f609967212"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-lg.jpg",
+        "type": "file",
+        "md5": "967415ed0621758bbf9dcd896eb0225f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-md.jpg",
+        "type": "file",
+        "md5": "967415ed0621758bbf9dcd896eb0225f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-sm.jpg",
+        "type": "file",
+        "md5": "967415ed0621758bbf9dcd896eb0225f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224633.996-xs.jpg",
+        "type": "file",
+        "md5": "f080622ae5ca5f34098012f609967212"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224644.433-lg.jpg",
+        "type": "file",
+        "md5": "00ddf56da855ba05ac23d278d4aedb00"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224644.433-md.jpg",
+        "type": "file",
+        "md5": "00ddf56da855ba05ac23d278d4aedb00"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224644.433-sm.jpg",
+        "type": "file",
+        "md5": "8253e5ac5f594cfe5495afc186abccf6"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-31T224644.433-xs.jpg",
+        "type": "file",
+        "md5": "9091a624c4599291d95d899828e0f786"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1132,7 +1242,7 @@
     {
         "path": "/modern-decor-accessories-creative-ideas-to-elevate-your-home/index.html",
         "type": "file",
-        "md5": "9a0ba0b737a957679d5d13467d5beee4"
+        "md5": "f2efbc51150d33c45a64ba268cc61891"
     },
     {
         "path": "modern-ideas-for-stylish-wall-colors-and-accent-paints",
@@ -1167,7 +1277,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "bd0155841548d03c2d6b66170c924f93"
+        "md5": "b0983a7d0d2a27aff4d0b4791093064e"
     },
     {
         "path": "pivacy-policy",
@@ -1187,7 +1297,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "72628e365f56ffbf8e2e935658ced0bb"
+        "md5": "10da91b170d9bd2e3eb2429c7a74d25e"
     },
     {
         "path": "sitemap.xsl",
@@ -1242,7 +1352,7 @@
     {
         "path": "/stylish-ways-to-refresh-your-modern-home-decor/index.html",
         "type": "file",
-        "md5": "bec6e23a7e0f9fa75cdee9e93d7ffccc"
+        "md5": "979ddf9ee78b956e593280cce52018f3"
     },
     {
         "path": "tags",
@@ -1272,7 +1382,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "6e357361d945da59a4dc8d6046636499"
+        "md5": "11e2ffcfb74bd0f5233e7097d7492ed0"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
@@ -1312,7 +1422,7 @@
     {
         "path": "/tags/modern-decor-accessories/index.html",
         "type": "file",
-        "md5": "7539ae177c65e873f98afa744a957931"
+        "md5": "78821848168feada4af91f18b37546a2"
     },
     {
         "path": "tags/neutral-wall-colors",
@@ -1375,6 +1485,16 @@
         "md5": "13476abac7748194bd4105dca3dbc4cf"
     },
     {
+        "path": "tags/vases-and-bowls",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/vases-and-bowls/index.html",
+        "type": "file",
+        "md5": "dd7d49b762804459809405087c679ab4"
+    },
+    {
         "path": "tags/velvet-couches",
         "type": "directory",
         "md5": false
@@ -1422,7 +1542,7 @@
     {
         "path": "/transform-empty-walls-into-stylish-modern-features/index.html",
         "type": "file",
-        "md5": "2b33a7455da1f8cd9a7a7de7e78ac12f"
+        "md5": "28988f250887102178337cb4e50ea433"
     },
     {
         "path": "transform-your-interior-with-depth-style-and-personality",
