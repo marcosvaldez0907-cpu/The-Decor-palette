@@ -12,7 +12,7 @@
     {
         "path": "/a-luxurious-touch-for-stylish-and-comfortable-living-rooms/index.html",
         "type": "file",
-        "md5": "f8f6a1bf8cd3e9a93fa90cb84c8bd689"
+        "md5": "86767507591cac29c109c952a9aba5a1"
     },
     {
         "path": "a-stylish-choice-for-modern-home-lighting-and-lamps",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "cd1c2e126698239bfcc851f4c8fd6bcf"
+        "md5": "9133a4d5ce9ef77eb9a01403fb96dd3b"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "b436fd3138a99d66fc8bb375186f7aef"
+        "md5": "2f4d1a7cf4dfcbea2de8618ec4f10010"
     },
     {
         "path": "authors/james-k-perry/page/3",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/james-k-perry/page/3/index.html",
         "type": "file",
-        "md5": "3010980f9af57525fb95a5cda64b222a"
+        "md5": "7f70981e993826e70a475d2191ab90d8"
     },
     {
         "path": "beautiful-decorative-details-that-transform-your-home",
@@ -152,7 +152,7 @@
     {
         "path": "/beautiful-decorative-details-that-transform-your-home/index.html",
         "type": "file",
-        "md5": "41854efa2c82201d44ade5709bbe0010"
+        "md5": "07be6417ab04afd070e2ff94755cea49"
     },
     {
         "path": "contact-us",
@@ -192,7 +192,7 @@
     {
         "path": "/creative-styling-ideas-for-modern-home-interiors/index.html",
         "type": "file",
-        "md5": "a03c1874e94d401756e5b8f06b13471e"
+        "md5": "b8caaaf63e6f02ff881d669750a27fd6"
     },
     {
         "path": "creative-ways-to-style-modern-home-interiors",
@@ -202,7 +202,7 @@
     {
         "path": "/creative-ways-to-style-modern-home-interiors/index.html",
         "type": "file",
-        "md5": "5e673a04fdc078a095d67fbd7443b2ee"
+        "md5": "e7de6eb9d54bcd2f68091e194c4a3870"
     },
     {
         "path": "elegant-comfort-for-modern-living-room-designs",
@@ -217,12 +217,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "19e3d44665b40ad1ff018fd0ae266816"
+        "md5": "9e5581d38d147dadc4e8cf4210762495"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f2a4c41684bea17e7d59966219dceb19"
+        "md5": "c188090c1b0977439a65764ec4bb2700"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -257,7 +257,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "af3cbfff289209e3edb13684119caa20"
+        "md5": "24de8bb48b70ffccc7bd1b87aa702d62"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -1195,6 +1195,81 @@
         "md5": "2736c2474b505639be70f6cc85300233"
     },
     {
+        "path": "media/posts/27",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/images-22.jpg",
+        "type": "file",
+        "md5": "6952f25a6be6106b0d4e8483382218f1"
+    },
+    {
+        "path": "/media/posts/27/images-23.jpg",
+        "type": "file",
+        "md5": "082d76830891fc4f0f242c65285a6f2f"
+    },
+    {
+        "path": "media/posts/27/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/responsive/images-22-2xl.jpg",
+        "type": "file",
+        "md5": "865f4f7ec255549565614d0dcf5428ca"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-22-lg.jpg",
+        "type": "file",
+        "md5": "865f4f7ec255549565614d0dcf5428ca"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-22-md.jpg",
+        "type": "file",
+        "md5": "865f4f7ec255549565614d0dcf5428ca"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-22-sm.jpg",
+        "type": "file",
+        "md5": "865f4f7ec255549565614d0dcf5428ca"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-22-sm2.jpg",
+        "type": "file",
+        "md5": "617bbbea6aafd4c03fded32e0dd9f333"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-22-xl.jpg",
+        "type": "file",
+        "md5": "865f4f7ec255549565614d0dcf5428ca"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-22-xs.jpg",
+        "type": "file",
+        "md5": "0253bc58b31516f17495b95f7b1d6f7a"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-23-lg.jpg",
+        "type": "file",
+        "md5": "9a0ae9775fdc15a1b2c1ca798bbc497d"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-23-md.jpg",
+        "type": "file",
+        "md5": "9a0ae9775fdc15a1b2c1ca798bbc497d"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-23-sm.jpg",
+        "type": "file",
+        "md5": "9a0ae9775fdc15a1b2c1ca798bbc497d"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-23-xs.jpg",
+        "type": "file",
+        "md5": "4e1132c4201ebcca0b64a58aa3f2a9e5"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1337,7 +1412,7 @@
     {
         "path": "/modern-decor-accessories-creative-ideas-to-elevate-your-home/index.html",
         "type": "file",
-        "md5": "f2efbc51150d33c45a64ba268cc61891"
+        "md5": "91f69e9b6718923792e18cdc8764bf91"
     },
     {
         "path": "modern-ideas-for-stylish-wall-colors-and-accent-paints",
@@ -1372,7 +1447,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "4f3366f5aa1f2aec3e036e6afe3f69b0"
+        "md5": "29d51389157381a1fd96a567f1dde4a7"
     },
     {
         "path": "page/3",
@@ -1382,7 +1457,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "d6d503b6f7bbdff5e0f4411e58deac98"
+        "md5": "38f86baa9879cbb6d636b705af4a2356"
     },
     {
         "path": "pivacy-policy",
@@ -1402,7 +1477,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5aaed276e80cd043ab411630fcd86361"
+        "md5": "22576fe9a89129d21ef2f144837e49a5"
     },
     {
         "path": "sitemap.xsl",
@@ -1457,7 +1532,7 @@
     {
         "path": "/stylish-ways-to-refresh-your-modern-home-decor/index.html",
         "type": "file",
-        "md5": "979ddf9ee78b956e593280cce52018f3"
+        "md5": "c7864440ed5ce96ce8117ce0d064bc50"
     },
     {
         "path": "tags",
@@ -1487,7 +1562,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "4eb7320427d4522e0333a513d8107289"
+        "md5": "7dd2d3cba5ddbb0ba1671471d46376d3"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
@@ -1527,7 +1602,7 @@
     {
         "path": "/tags/modern-decor-accessories/index.html",
         "type": "file",
-        "md5": "78821848168feada4af91f18b37546a2"
+        "md5": "73ca0abac5ae2322a976436080c568a0"
     },
     {
         "path": "tags/neutral-wall-colors",
@@ -1587,7 +1662,7 @@
     {
         "path": "/tags/throw-pillows/index.html",
         "type": "file",
-        "md5": "13476abac7748194bd4105dca3dbc4cf"
+        "md5": "de83de8feb5c914f8ad8a3f39e71b451"
     },
     {
         "path": "tags/vases-and-bowls",
@@ -1630,6 +1705,16 @@
         "md5": "2f776425a8b752418d0d99a019f86df0"
     },
     {
+        "path": "throw-pillows-stylish-and-comfortable-accessories-for-modern-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/throw-pillows-stylish-and-comfortable-accessories-for-modern-home-decor/index.html",
+        "type": "file",
+        "md5": "6193e53927cd9b60d38411e7c18483c7"
+    },
+    {
         "path": "timeless-paint-ideas-for-every-interior-style",
         "type": "directory",
         "md5": false
@@ -1647,7 +1732,7 @@
     {
         "path": "/transform-empty-walls-into-stylish-modern-features/index.html",
         "type": "file",
-        "md5": "28988f250887102178337cb4e50ea433"
+        "md5": "68f9c1acc187ce4fe2c9639171643ed3"
     },
     {
         "path": "transform-your-interior-with-depth-style-and-personality",
