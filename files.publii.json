@@ -22,7 +22,7 @@
     {
         "path": "/a-stylish-choice-for-modern-home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "e47e6eefc3060ea5ec8afa5ef78ca942"
+        "md5": "dde20624ea794d3f174e142423a8bf32"
     },
     {
         "path": "about-us",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "9133a4d5ce9ef77eb9a01403fb96dd3b"
+        "md5": "e39bd465aabd4b9adcb6bf07ca04a5a1"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "2f4d1a7cf4dfcbea2de8618ec4f10010"
+        "md5": "e0d0969ce3dba9a2a30f168c33db2e3c"
     },
     {
         "path": "authors/james-k-perry/page/3",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/james-k-perry/page/3/index.html",
         "type": "file",
-        "md5": "7f70981e993826e70a475d2191ab90d8"
+        "md5": "a26ba03a7a52c403877ed8d2db5062f2"
     },
     {
         "path": "beautiful-decorative-details-that-transform-your-home",
@@ -182,7 +182,7 @@
     {
         "path": "/creative-lighting-solutions-for-modern-home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "506e8464313a43b33e5f993928283f5c"
+        "md5": "e0dfb9c2bc506016b059f2bcdc8a8ff4"
     },
     {
         "path": "creative-styling-ideas-for-modern-home-interiors",
@@ -217,12 +217,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "9e5581d38d147dadc4e8cf4210762495"
+        "md5": "14ba5131e7ff0279e75bbc8c822320d8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c188090c1b0977439a65764ec4bb2700"
+        "md5": "49c93af0e9aba64a87e0dfadc3adabcf"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -232,7 +232,7 @@
     {
         "path": "/floor-lamps-elegant-lighting-ideas-for-every-room/index.html",
         "type": "file",
-        "md5": "661797b299a31cc76bf8a93d7a7ffb2b"
+        "md5": "9954245a9cad2c9f24fd39681394c2ce"
     },
     {
         "path": "how-to-build-a-stylish-and-timeless-interior",
@@ -257,7 +257,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "24de8bb48b70ffccc7bd1b87aa702d62"
+        "md5": "593c5b9cd1a447cc09d7dbf7b647ad52"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -1270,6 +1270,81 @@
         "md5": "4e1132c4201ebcca0b64a58aa3f2a9e5"
     },
     {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/images-2026-11-11T091031.214.jpg",
+        "type": "file",
+        "md5": "d8919123cee26ceebed6ace24a406a76"
+    },
+    {
+        "path": "/media/posts/28/images-2026-11-11T091041.296.jpg",
+        "type": "file",
+        "md5": "3d2d86e12e7d6d6fab4bdee485f10054"
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091031.214-lg.jpg",
+        "type": "file",
+        "md5": "554a7753dbe6ae81e55d60029b24a976"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091031.214-md.jpg",
+        "type": "file",
+        "md5": "554a7753dbe6ae81e55d60029b24a976"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091031.214-sm.jpg",
+        "type": "file",
+        "md5": "554a7753dbe6ae81e55d60029b24a976"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091031.214-xs.jpg",
+        "type": "file",
+        "md5": "360e375fe8e279197ee81c392f7534fa"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091041.296-2xl.jpg",
+        "type": "file",
+        "md5": "7b3bbade8e6218a82b2c36abbac9cbf9"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091041.296-lg.jpg",
+        "type": "file",
+        "md5": "7b3bbade8e6218a82b2c36abbac9cbf9"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091041.296-md.jpg",
+        "type": "file",
+        "md5": "7b3bbade8e6218a82b2c36abbac9cbf9"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091041.296-sm.jpg",
+        "type": "file",
+        "md5": "7b3bbade8e6218a82b2c36abbac9cbf9"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091041.296-sm2.jpg",
+        "type": "file",
+        "md5": "f1c00e653ca0d5168800aea5428937d3"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091041.296-xl.jpg",
+        "type": "file",
+        "md5": "7b3bbade8e6218a82b2c36abbac9cbf9"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-11T091041.296-xs.jpg",
+        "type": "file",
+        "md5": "c3d6d1bd5e73a4af31908d45b32d14f6"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1447,7 +1522,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "29d51389157381a1fd96a567f1dde4a7"
+        "md5": "1a560c57509924c0517f4046c6543169"
     },
     {
         "path": "page/3",
@@ -1457,7 +1532,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "38f86baa9879cbb6d636b705af4a2356"
+        "md5": "3e1c12dce4f61107c407b148a3c39077"
     },
     {
         "path": "pivacy-policy",
@@ -1477,7 +1552,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "22576fe9a89129d21ef2f144837e49a5"
+        "md5": "00c19790fb2359109c6d6892b2d6b045"
     },
     {
         "path": "sitemap.xsl",
@@ -1512,7 +1587,7 @@
     {
         "path": "/stylish-ideas-for-home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "495d3263173f6c6511b6d56fb6a420d6"
+        "md5": "d0de845d8eac667173909a6bb5a9b9e5"
     },
     {
         "path": "stylish-seating-ideas-for-modern-living-rooms",
@@ -1557,12 +1632,12 @@
     {
         "path": "/tags/home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "6c9738d2e88de1a037d2e22caa5bdd78"
+        "md5": "e5990496dbfdd8102654c648bcbd0a49"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "7dd2d3cba5ddbb0ba1671471d46376d3"
+        "md5": "891c0be9b5cdc89a6d253c4a35e3627d"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
@@ -1632,7 +1707,7 @@
     {
         "path": "/tags/pendant-and-hanging-lights/index.html",
         "type": "file",
-        "md5": "95046abd3a8a24a7da7b22e805d68194"
+        "md5": "fc8d17d8d6dd649872ae1525acc5083d"
     },
     {
         "path": "tags/small-layouts",
@@ -1712,7 +1787,7 @@
     {
         "path": "/throw-pillows-stylish-and-comfortable-accessories-for-modern-home-decor/index.html",
         "type": "file",
-        "md5": "6193e53927cd9b60d38411e7c18483c7"
+        "md5": "97c47e730211cecd69e5dc0f8336be86"
     },
     {
         "path": "timeless-paint-ideas-for-every-interior-style",
@@ -1733,6 +1808,16 @@
         "path": "/transform-empty-walls-into-stylish-modern-features/index.html",
         "type": "file",
         "md5": "68f9c1acc187ce4fe2c9639171643ed3"
+    },
+    {
+        "path": "transform-your-home-with-beautiful-and-functional-lighting-designs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-home-with-beautiful-and-functional-lighting-designs/index.html",
+        "type": "file",
+        "md5": "48d43e77bf9d521a6965316a89f5a377"
     },
     {
         "path": "transform-your-interior-with-depth-style-and-personality",
